@@ -1,4 +1,4 @@
-# GuiltyGearACPR-Manual-AP
+# GuiltyGearXXACPR-Manual-AP
 A Manual APWorld for Archipelago for the fighting game Guilty Gear Accent Core Plus R
 
 Instructions for GGXXACPR APWorld
