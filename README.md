@@ -3,7 +3,11 @@ A Manual APWorld for Archipelago for the fighting game Guilty Gear Accent Core P
 
 Instructions for GGXXACPR APWorld
 
-Replace your pc-guilty-gear-xx-accent-core-plus-r-savegame Savedata.dat 
+If you don't have it, Guilty Gear Accent Core Plus R is available on steam or gog here:
+https://store.steampowered.com/app/348550/GUILTY_GEAR_XX_ACCENT_CORE_PLUS_R/
+It is frequently on sale for about 75% off or so (so about $3.00), so please support the developers and buy legitimate copy to play this archipelago.
+
+Replace the save file Savedata.dat 
 It should go in:
 C:\Users\[username]\Documents\ARC SYSTEM WORKS\GGXXAC\save
 If you have no save data already, the folder won't exist yet. This can be fixed by launching the game once first.
