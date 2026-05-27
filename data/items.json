@@ -1,0 +1,2702 @@
+[
+  {
+    "count": 1,
+    "name": "Kliff",
+    "category": [
+      "Character",
+      "Kliff"
+    ],
+    "progression": true
+  },
+  {
+    "count": 6,
+    "name": "Kliff Difficulty Reduction",
+    "category": [
+      "Difficulty Reduction",
+      "Kliff"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Kliff Instant Kill",
+    "category": [
+      "Instant Kill",
+      "Kliff"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Kliff Continue Unlock",
+    "category": [
+      "Continue Unlock",
+      "Kliff"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Kliff Completed",
+    "category": [
+      "Character Completed",
+      "Kliff"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Kliff Gold",
+    "category": [
+      "Gold Mode",
+      "Kliff"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Kliff Shadow",
+    "category": [
+      "Shadow Mode",
+      "Kliff"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Kliff EX Mode",
+    "category": [
+      "EX Mode",
+      "Kliff"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Kliff Single Round",
+    "category": [
+      "Single Round",
+      "Kliff"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Kliff EX Palette",
+    "category": [
+      "Color Palette",
+      "Kliff"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Kliff Slash Palette",
+    "category": [
+      "Color Palette",
+      "Kliff"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Kliff Reload Palette",
+    "category": [
+      "Color Palette",
+      "Kliff"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Axl",
+    "category": [
+      "Character",
+      "Axl"
+    ],
+    "progression": true
+  },
+  {
+    "count": 6,
+    "name": "Axl Difficulty Reduction",
+    "category": [
+      "Difficulty Reduction",
+      "Axl"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Axl Instant Kill",
+    "category": [
+      "Instant Kill",
+      "Axl"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Axl Continue Unlock",
+    "category": [
+      "Continue Unlock",
+      "Axl"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Axl Completed",
+    "category": [
+      "Character Completed",
+      "Axl"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Axl Gold",
+    "category": [
+      "Gold Mode",
+      "Axl"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Axl Shadow",
+    "category": [
+      "Shadow Mode",
+      "Axl"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Axl EX Mode",
+    "category": [
+      "EX Mode",
+      "Axl"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Axl Single Round",
+    "category": [
+      "Single Round",
+      "Axl"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Axl EX Palette",
+    "category": [
+      "Color Palette",
+      "Axl"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Axl Slash Palette",
+    "category": [
+      "Color Palette",
+      "Axl"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Axl Reload Palette",
+    "category": [
+      "Color Palette",
+      "Axl"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Jam",
+    "category": [
+      "Character",
+      "Jam"
+    ],
+    "progression": true
+  },
+  {
+    "count": 6,
+    "name": "Jam Difficulty Reduction",
+    "category": [
+      "Difficulty Reduction",
+      "Jam"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Jam Instant Kill",
+    "category": [
+      "Instant Kill",
+      "Jam"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Jam Continue Unlock",
+    "category": [
+      "Continue Unlock",
+      "Jam"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Jam Completed",
+    "category": [
+      "Character Completed",
+      "Jam"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Jam Gold",
+    "category": [
+      "Gold Mode",
+      "Jam"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Jam Shadow",
+    "category": [
+      "Shadow Mode",
+      "Jam"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Jam EX Mode",
+    "category": [
+      "EX Mode",
+      "Jam"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Jam Single Round",
+    "category": [
+      "Single Round",
+      "Jam"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Jam EX Palette",
+    "category": [
+      "Color Palette",
+      "Jam"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Jam Slash Palette",
+    "category": [
+      "Color Palette",
+      "Jam"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Jam Reload Palette",
+    "category": [
+      "Color Palette",
+      "Jam"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Zappa",
+    "category": [
+      "Character",
+      "Zappa"
+    ],
+    "progression": true
+  },
+  {
+    "count": 6,
+    "name": "Zappa Difficulty Reduction",
+    "category": [
+      "Difficulty Reduction",
+      "Zappa"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Zappa Instant Kill",
+    "category": [
+      "Instant Kill",
+      "Zappa"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Zappa Continue Unlock",
+    "category": [
+      "Continue Unlock",
+      "Zappa"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Zappa Completed",
+    "category": [
+      "Character Completed",
+      "Zappa"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Zappa Gold",
+    "category": [
+      "Gold Mode",
+      "Zappa"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Zappa Shadow",
+    "category": [
+      "Shadow Mode",
+      "Zappa"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Zappa EX Mode",
+    "category": [
+      "EX Mode",
+      "Zappa"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Zappa Single Round",
+    "category": [
+      "Single Round",
+      "Zappa"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Zappa EX Palette",
+    "category": [
+      "Color Palette",
+      "Zappa"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Zappa Slash Palette",
+    "category": [
+      "Color Palette",
+      "Zappa"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Zappa Reload Palette",
+    "category": [
+      "Color Palette",
+      "Zappa"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Chipp",
+    "category": [
+      "Character",
+      "Chipp"
+    ],
+    "progression": true
+  },
+  {
+    "count": 6,
+    "name": "Chipp Difficulty Reduction",
+    "category": [
+      "Difficulty Reduction",
+      "Chipp"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Chipp Instant Kill",
+    "category": [
+      "Instant Kill",
+      "Chipp"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Chipp Continue Unlock",
+    "category": [
+      "Continue Unlock",
+      "Chipp"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Chipp Completed",
+    "category": [
+      "Character Completed",
+      "Chipp"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Chipp Gold",
+    "category": [
+      "Gold Mode",
+      "Chipp"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Chipp Shadow",
+    "category": [
+      "Shadow Mode",
+      "Chipp"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Chipp EX Mode",
+    "category": [
+      "EX Mode",
+      "Chipp"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Chipp Single Round",
+    "category": [
+      "Single Round",
+      "Chipp"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Chipp EX Palette",
+    "category": [
+      "Color Palette",
+      "Chipp"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Chipp Slash Palette",
+    "category": [
+      "Color Palette",
+      "Chipp"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Chipp Reload Palette",
+    "category": [
+      "Color Palette",
+      "Chipp"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Dizzy",
+    "category": [
+      "Character",
+      "Dizzy"
+    ],
+    "progression": true
+  },
+  {
+    "count": 6,
+    "name": "Dizzy Difficulty Reduction",
+    "category": [
+      "Difficulty Reduction",
+      "Dizzy"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dizzy Instant Kill",
+    "category": [
+      "Instant Kill",
+      "Dizzy"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dizzy Continue Unlock",
+    "category": [
+      "Continue Unlock",
+      "Dizzy"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dizzy Completed",
+    "category": [
+      "Character Completed",
+      "Dizzy"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dizzy Gold",
+    "category": [
+      "Gold Mode",
+      "Dizzy"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Dizzy Shadow",
+    "category": [
+      "Shadow Mode",
+      "Dizzy"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Dizzy EX Mode",
+    "category": [
+      "EX Mode",
+      "Dizzy"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Dizzy Single Round",
+    "category": [
+      "Single Round",
+      "Dizzy"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Dizzy EX Palette",
+    "category": [
+      "Color Palette",
+      "Dizzy"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Dizzy Slash Palette",
+    "category": [
+      "Color Palette",
+      "Dizzy"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Dizzy Reload Palette",
+    "category": [
+      "Color Palette",
+      "Dizzy"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Anji",
+    "category": [
+      "Character",
+      "Anji"
+    ],
+    "progression": true
+  },
+  {
+    "count": 6,
+    "name": "Anji Difficulty Reduction",
+    "category": [
+      "Difficulty Reduction",
+      "Anji"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Anji Instant Kill",
+    "category": [
+      "Instant Kill",
+      "Anji"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Anji Continue Unlock",
+    "category": [
+      "Continue Unlock",
+      "Anji"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Anji Completed",
+    "category": [
+      "Character Completed",
+      "Anji"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Anji Gold",
+    "category": [
+      "Gold Mode",
+      "Anji"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Anji Shadow",
+    "category": [
+      "Shadow Mode",
+      "Anji"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Anji EX Mode",
+    "category": [
+      "EX Mode",
+      "Anji"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Anji Single Round",
+    "category": [
+      "Single Round",
+      "Anji"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Anji EX Palette",
+    "category": [
+      "Color Palette",
+      "Anji"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Anji Slash Palette",
+    "category": [
+      "Color Palette",
+      "Anji"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Anji Reload Palette",
+    "category": [
+      "Color Palette",
+      "Anji"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Slayer",
+    "category": [
+      "Character",
+      "Slayer"
+    ],
+    "progression": true
+  },
+  {
+    "count": 6,
+    "name": "Slayer Difficulty Reduction",
+    "category": [
+      "Difficulty Reduction",
+      "Slayer"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Slayer Instant Kill",
+    "category": [
+      "Instant Kill",
+      "Slayer"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Slayer Continue Unlock",
+    "category": [
+      "Continue Unlock",
+      "Slayer"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Slayer Completed",
+    "category": [
+      "Character Completed",
+      "Slayer"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Slayer Gold",
+    "category": [
+      "Gold Mode",
+      "Slayer"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Slayer Shadow",
+    "category": [
+      "Shadow Mode",
+      "Slayer"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Slayer EX Mode",
+    "category": [
+      "EX Mode",
+      "Slayer"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Slayer Single Round",
+    "category": [
+      "Single Round",
+      "Slayer"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Slayer EX Palette",
+    "category": [
+      "Color Palette",
+      "Slayer"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Slayer Slash Palette",
+    "category": [
+      "Color Palette",
+      "Slayer"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Slayer Reload Palette",
+    "category": [
+      "Color Palette",
+      "Slayer"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "ABA",
+    "category": [
+      "Character",
+      "ABA"
+    ],
+    "progression": true
+  },
+  {
+    "count": 6,
+    "name": "ABA Difficulty Reduction",
+    "category": [
+      "Difficulty Reduction",
+      "ABA"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "ABA Instant Kill",
+    "category": [
+      "Instant Kill",
+      "ABA"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "ABA Continue Unlock",
+    "category": [
+      "Continue Unlock",
+      "ABA"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "ABA Completed",
+    "category": [
+      "Character Completed",
+      "ABA"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "ABA Gold",
+    "category": [
+      "Gold Mode",
+      "ABA"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "ABA Shadow",
+    "category": [
+      "Shadow Mode",
+      "ABA"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "ABA EX Mode",
+    "category": [
+      "EX Mode",
+      "ABA"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "ABA Single Round",
+    "category": [
+      "Single Round",
+      "ABA"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "ABA EX Palette",
+    "category": [
+      "Color Palette",
+      "ABA"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "ABA Slash Palette",
+    "category": [
+      "Color Palette",
+      "ABA"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "ABA Reload Palette",
+    "category": [
+      "Color Palette",
+      "ABA"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Johnny",
+    "category": [
+      "Character",
+      "Johnny"
+    ],
+    "progression": true
+  },
+  {
+    "count": 6,
+    "name": "Johnny Difficulty Reduction",
+    "category": [
+      "Difficulty Reduction",
+      "Johnny"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Johnny Instant Kill",
+    "category": [
+      "Instant Kill",
+      "Johnny"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Johnny Continue Unlock",
+    "category": [
+      "Continue Unlock",
+      "Johnny"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Johnny Completed",
+    "category": [
+      "Character Completed",
+      "Johnny"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Johnny Gold",
+    "category": [
+      "Gold Mode",
+      "Johnny"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Johnny Shadow",
+    "category": [
+      "Shadow Mode",
+      "Johnny"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Johnny EX Mode",
+    "category": [
+      "EX Mode",
+      "Johnny"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Johnny Single Round",
+    "category": [
+      "Single Round",
+      "Johnny"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Johnny EX Palette",
+    "category": [
+      "Color Palette",
+      "Johnny"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Johnny Slash Palette",
+    "category": [
+      "Color Palette",
+      "Johnny"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Johnny Reload Palette",
+    "category": [
+      "Color Palette",
+      "Johnny"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Millia",
+    "category": [
+      "Character",
+      "Millia"
+    ],
+    "progression": true
+  },
+  {
+    "count": 6,
+    "name": "Millia Difficulty Reduction",
+    "category": [
+      "Difficulty Reduction",
+      "Millia"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Millia Instant Kill",
+    "category": [
+      "Instant Kill",
+      "Millia"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Millia Continue Unlock",
+    "category": [
+      "Continue Unlock",
+      "Millia"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Millia Completed",
+    "category": [
+      "Character Completed",
+      "Millia"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Millia Gold",
+    "category": [
+      "Gold Mode",
+      "Millia"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Millia Shadow",
+    "category": [
+      "Shadow Mode",
+      "Millia"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Millia EX Mode",
+    "category": [
+      "EX Mode",
+      "Millia"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Millia Single Round",
+    "category": [
+      "Single Round",
+      "Millia"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Millia EX Palette",
+    "category": [
+      "Color Palette",
+      "Millia"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Millia Slash Palette",
+    "category": [
+      "Color Palette",
+      "Millia"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Millia Reload Palette",
+    "category": [
+      "Color Palette",
+      "Millia"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Sol",
+    "category": [
+      "Character",
+      "Sol"
+    ],
+    "progression": true
+  },
+  {
+    "count": 6,
+    "name": "Sol Difficulty Reduction",
+    "category": [
+      "Difficulty Reduction",
+      "Sol"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sol Instant Kill",
+    "category": [
+      "Instant Kill",
+      "Sol"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sol Continue Unlock",
+    "category": [
+      "Continue Unlock",
+      "Sol"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sol Completed",
+    "category": [
+      "Character Completed",
+      "Sol"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sol Gold",
+    "category": [
+      "Gold Mode",
+      "Sol"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Sol Shadow",
+    "category": [
+      "Shadow Mode",
+      "Sol"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Sol EX Mode",
+    "category": [
+      "EX Mode",
+      "Sol"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Sol Single Round",
+    "category": [
+      "Single Round",
+      "Sol"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Sol EX Palette",
+    "category": [
+      "Color Palette",
+      "Sol"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Sol Slash Palette",
+    "category": [
+      "Color Palette",
+      "Sol"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Sol Reload Palette",
+    "category": [
+      "Color Palette",
+      "Sol"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Order-Sol",
+    "category": [
+      "Character",
+      "Order-Sol"
+    ],
+    "progression": true
+  },
+  {
+    "count": 6,
+    "name": "Order-Sol Difficulty Reduction",
+    "category": [
+      "Difficulty Reduction",
+      "Order-Sol"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Order-Sol Instant Kill",
+    "category": [
+      "Instant Kill",
+      "Order-Sol"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Order-Sol Continue Unlock",
+    "category": [
+      "Continue Unlock",
+      "Order-Sol"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Order-Sol Completed",
+    "category": [
+      "Character Completed",
+      "Order-Sol"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Order-Sol EX Mode",
+    "category": [
+      "EX Mode",
+      "Order-Sol"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Order-Sol Gold",
+    "category": [
+      "Gold Mode",
+      "Order-Sol"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Order-Sol Shadow",
+    "category": [
+      "Shadow Mode",
+      "Order-Sol"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Order-Sol Single Round",
+    "category": [
+      "Single Round",
+      "Order-Sol"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Order-Sol EX Palette",
+    "category": [
+      "Color Palette",
+      "Order-Sol"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Order-Sol Slash Palette",
+    "category": [
+      "Color Palette",
+      "Order-Sol"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Order-Sol Reload Palette",
+    "category": [
+      "Color Palette",
+      "Order-Sol"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Ky",
+    "category": [
+      "Character",
+      "Ky"
+    ],
+    "progression": true
+  },
+  {
+    "count": 6,
+    "name": "Ky Difficulty Reduction",
+    "category": [
+      "Difficulty Reduction",
+      "Ky"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Ky Instant Kill",
+    "category": [
+      "Instant Kill",
+      "Ky"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Ky Continue Unlock",
+    "category": [
+      "Continue Unlock",
+      "Ky"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Ky Completed",
+    "category": [
+      "Character Completed",
+      "Ky"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Ky Gold",
+    "category": [
+      "Gold Mode",
+      "Ky"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Ky Shadow",
+    "category": [
+      "Shadow Mode",
+      "Ky"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Ky EX Mode",
+    "category": [
+      "EX Mode",
+      "Ky"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Ky Single Round",
+    "category": [
+      "Single Round",
+      "Ky"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Ky EX Palette",
+    "category": [
+      "Color Palette",
+      "Ky"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Ky Slash Palette",
+    "category": [
+      "Color Palette",
+      "Ky"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Ky Reload Palette",
+    "category": [
+      "Color Palette",
+      "Ky"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Robo-Ky",
+    "category": [
+      "Character",
+      "Robo-Ky"
+    ],
+    "progression": true
+  },
+  {
+    "count": 6,
+    "name": "Robo-Ky Difficulty Reduction",
+    "category": [
+      "Difficulty Reduction",
+      "Robo-Ky"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Robo-Ky Instant Kill",
+    "category": [
+      "Instant Kill",
+      "Robo-Ky"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Robo-Ky Continue Unlock",
+    "category": [
+      "Continue Unlock",
+      "Robo-Ky"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Robo-Ky Completed",
+    "category": [
+      "Character Completed",
+      "Robo-Ky"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Robo-Ky Gold",
+    "category": [
+      "Gold Mode",
+      "Robo-Ky"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Robo-Ky Shadow",
+    "category": [
+      "Shadow Mode",
+      "Robo-Ky"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Robo-Ky EX Mode",
+    "category": [
+      "EX Mode",
+      "Robo-Ky"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Robo-Ky Single Round",
+    "category": [
+      "Single Round",
+      "Robo-Ky"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Robo-Ky EX Palette",
+    "category": [
+      "Color Palette",
+      "Robo-Ky"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Robo-Ky Slash Palette",
+    "category": [
+      "Color Palette",
+      "Robo-Ky"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Robo-Ky Reload Palette",
+    "category": [
+      "Color Palette",
+      "Robo-Ky"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "May",
+    "category": [
+      "Character",
+      "May"
+    ],
+    "progression": true
+  },
+  {
+    "count": 6,
+    "name": "May Difficulty Reduction",
+    "category": [
+      "Difficulty Reduction",
+      "May"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "May Instant Kill",
+    "category": [
+      "Instant Kill",
+      "May"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "May Continue Unlock",
+    "category": [
+      "Continue Unlock",
+      "May"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "May Completed",
+    "category": [
+      "Character Completed",
+      "May"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "May Gold",
+    "category": [
+      "Gold Mode",
+      "May"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "May Shadow",
+    "category": [
+      "Shadow Mode",
+      "May"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "May EX Mode",
+    "category": [
+      "EX Mode",
+      "May"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "May Single Round",
+    "category": [
+      "Single Round",
+      "May"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "May EX Palette",
+    "category": [
+      "Color Palette",
+      "May"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "May Slash Palette",
+    "category": [
+      "Color Palette",
+      "May"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "May Reload Palette",
+    "category": [
+      "Color Palette",
+      "May"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Eddie",
+    "category": [
+      "Character",
+      "Eddie"
+    ],
+    "progression": true
+  },
+  {
+    "count": 6,
+    "name": "Eddie Difficulty Reduction",
+    "category": [
+      "Difficulty Reduction",
+      "Eddie"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Eddie Instant Kill",
+    "category": [
+      "Instant Kill",
+      "Eddie"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Eddie Continue Unlock",
+    "category": [
+      "Continue Unlock",
+      "Eddie"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Eddie Completed",
+    "category": [
+      "Character Completed",
+      "Eddie"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Eddie Gold",
+    "category": [
+      "Gold Mode",
+      "Eddie"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Eddie Shadow",
+    "category": [
+      "Shadow Mode",
+      "Eddie"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Eddie EX Mode",
+    "category": [
+      "EX Mode",
+      "Eddie"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Eddie Single Round",
+    "category": [
+      "Single Round",
+      "Eddie"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Eddie EX Palette",
+    "category": [
+      "Color Palette",
+      "Eddie"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Eddie Slash Palette",
+    "category": [
+      "Color Palette",
+      "Eddie"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Eddie Reload Palette",
+    "category": [
+      "Color Palette",
+      "Eddie"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Testament",
+    "category": [
+      "Character",
+      "Testament"
+    ],
+    "progression": true
+  },
+  {
+    "count": 6,
+    "name": "Testament Difficulty Reduction",
+    "category": [
+      "Difficulty Reduction",
+      "Testament"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Testament Instant Kill",
+    "category": [
+      "Instant Kill",
+      "Testament"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Testament Continue Unlock",
+    "category": [
+      "Continue Unlock",
+      "Testament"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Testament Completed",
+    "category": [
+      "Character Completed",
+      "Testament"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Testament Gold",
+    "category": [
+      "Gold Mode",
+      "Testament"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Testament Shadow",
+    "category": [
+      "Shadow Mode",
+      "Testament"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Testament EX Mode",
+    "category": [
+      "EX Mode",
+      "Testament"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Testament Single Round",
+    "category": [
+      "Single Round",
+      "Testament"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Testament EX Palette",
+    "category": [
+      "Color Palette",
+      "Testament"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Testament Slash Palette",
+    "category": [
+      "Color Palette",
+      "Testament"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Testament Reload Palette",
+    "category": [
+      "Color Palette",
+      "Testament"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Baiken",
+    "category": [
+      "Character",
+      "Baiken"
+    ],
+    "progression": true
+  },
+  {
+    "count": 6,
+    "name": "Baiken Difficulty Reduction",
+    "category": [
+      "Difficulty Reduction",
+      "Baiken"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Baiken Instant Kill",
+    "category": [
+      "Instant Kill",
+      "Baiken"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Baiken Continue Unlock",
+    "category": [
+      "Continue Unlock",
+      "Baiken"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Baiken Completed",
+    "category": [
+      "Character Completed",
+      "Baiken"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Baiken Gold",
+    "category": [
+      "Gold Mode",
+      "Baiken"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Baiken Shadow",
+    "category": [
+      "Shadow Mode",
+      "Baiken"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Baiken EX Mode",
+    "category": [
+      "EX Mode",
+      "Baiken"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Baiken Single Round",
+    "category": [
+      "Single Round",
+      "Baiken"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Baiken EX Palette",
+    "category": [
+      "Color Palette",
+      "Baiken"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Baiken Slash Palette",
+    "category": [
+      "Color Palette",
+      "Baiken"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Baiken Reload Palette",
+    "category": [
+      "Color Palette",
+      "Baiken"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Venom",
+    "category": [
+      "Character",
+      "Venom"
+    ],
+    "progression": true
+  },
+  {
+    "count": 6,
+    "name": "Venom Difficulty Reduction",
+    "category": [
+      "Difficulty Reduction",
+      "Venom"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Venom Instant Kill",
+    "category": [
+      "Instant Kill",
+      "Venom"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Venom Continue Unlock",
+    "category": [
+      "Continue Unlock",
+      "Venom"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Venom Completed",
+    "category": [
+      "Character Completed",
+      "Venom"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Venom Gold",
+    "category": [
+      "Gold Mode",
+      "Venom"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Venom Shadow",
+    "category": [
+      "Shadow Mode",
+      "Venom"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Venom EX Mode",
+    "category": [
+      "EX Mode",
+      "Venom"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Venom Single Round",
+    "category": [
+      "Single Round",
+      "Venom"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Venom EX Palette",
+    "category": [
+      "Color Palette",
+      "Venom"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Venom Slash Palette",
+    "category": [
+      "Color Palette",
+      "Venom"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Venom Reload Palette",
+    "category": [
+      "Color Palette",
+      "Venom"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Bridget",
+    "category": [
+      "Character",
+      "Bridget"
+    ],
+    "progression": true
+  },
+  {
+    "count": 6,
+    "name": "Bridget Difficulty Reduction",
+    "category": [
+      "Difficulty Reduction",
+      "Bridget"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Bridget Instant Kill",
+    "category": [
+      "Instant Kill",
+      "Bridget"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Bridget Continue Unlock",
+    "category": [
+      "Continue Unlock",
+      "Bridget"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Bridget Completed",
+    "category": [
+      "Character Completed",
+      "Bridget"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Bridget Gold",
+    "category": [
+      "Gold Mode",
+      "Bridget"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Bridget Shadow",
+    "category": [
+      "Shadow Mode",
+      "Bridget"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Bridget EX Mode",
+    "category": [
+      "EX Mode",
+      "Bridget"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Bridget Single Round",
+    "category": [
+      "Single Round",
+      "Bridget"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Bridget EX Palette",
+    "category": [
+      "Color Palette",
+      "Bridget"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Bridget Slash Palette",
+    "category": [
+      "Color Palette",
+      "Bridget"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Bridget Reload Palette",
+    "category": [
+      "Color Palette",
+      "Bridget"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Faust",
+    "category": [
+      "Character",
+      "Faust"
+    ],
+    "progression": true
+  },
+  {
+    "count": 6,
+    "name": "Faust Difficulty Reduction",
+    "category": [
+      "Difficulty Reduction",
+      "Faust"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Faust Instant Kill",
+    "category": [
+      "Instant Kill",
+      "Faust"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Faust Continue Unlock",
+    "category": [
+      "Continue Unlock",
+      "Faust"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Faust Completed",
+    "category": [
+      "Character Completed",
+      "Faust"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Faust Gold",
+    "category": [
+      "Gold Mode",
+      "Faust"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Faust Shadow",
+    "category": [
+      "Shadow Mode",
+      "Faust"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Faust EX Mode",
+    "category": [
+      "EX Mode",
+      "Faust"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Faust Single Round",
+    "category": [
+      "Single Round",
+      "Faust"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Faust EX Palette",
+    "category": [
+      "Color Palette",
+      "Faust"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Faust Slash Palette",
+    "category": [
+      "Color Palette",
+      "Faust"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Faust Reload Palette",
+    "category": [
+      "Color Palette",
+      "Faust"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Potemkin",
+    "category": [
+      "Character",
+      "Potemkin"
+    ],
+    "progression": true
+  },
+  {
+    "count": 6,
+    "name": "Potemkin Difficulty Reduction",
+    "category": [
+      "Difficulty Reduction",
+      "Potemkin"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Potemkin Instant Kill",
+    "category": [
+      "Instant Kill",
+      "Potemkin"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Potemkin Continue Unlock",
+    "category": [
+      "Continue Unlock",
+      "Potemkin"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Potemkin Completed",
+    "category": [
+      "Character Completed",
+      "Potemkin"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Potemkin Gold",
+    "category": [
+      "Gold Mode",
+      "Potemkin"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Potemkin Shadow",
+    "category": [
+      "Shadow Mode",
+      "Potemkin"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Potemkin EX Mode",
+    "category": [
+      "EX Mode",
+      "Potemkin"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Potemkin Single Round",
+    "category": [
+      "Single Round",
+      "Potemkin"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Potemkin EX Palette",
+    "category": [
+      "Color Palette",
+      "Potemkin"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Potemkin Slash Palette",
+    "category": [
+      "Color Palette",
+      "Potemkin"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Potemkin Reload Palette",
+    "category": [
+      "Color Palette",
+      "Potemkin"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Justice",
+    "category": [
+      "Character",
+      "Justice"
+    ],
+    "progression": true
+  },
+  {
+    "count": 6,
+    "name": "Justice Difficulty Reduction",
+    "category": [
+      "Difficulty Reduction",
+      "Justice"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Justice Instant Kill",
+    "category": [
+      "Instant Kill",
+      "Justice"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Justice Continue Unlock",
+    "category": [
+      "Continue Unlock",
+      "Justice"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Justice Completed",
+    "category": [
+      "Character Completed",
+      "Justice"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Justice Gold",
+    "category": [
+      "Gold Mode",
+      "Justice"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Justice Shadow",
+    "category": [
+      "Shadow Mode",
+      "Justice"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Justice EX Mode",
+    "category": [
+      "EX Mode",
+      "Justice"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Justice Single Round",
+    "category": [
+      "Single Round",
+      "Justice"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Justice EX Palette",
+    "category": [
+      "Color Palette",
+      "Justice"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Justice Slash Palette",
+    "category": [
+      "Color Palette",
+      "Justice"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Justice Reload Palette",
+    "category": [
+      "Color Palette",
+      "Justice"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "I-No",
+    "category": [
+      "Character",
+      "I-No"
+    ],
+    "progression": true
+  },
+  {
+    "count": 6,
+    "name": "I-No Difficulty Reduction",
+    "category": [
+      "Difficulty Reduction",
+      "I-No"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "I-No Instant Kill",
+    "category": [
+      "Instant Kill",
+      "I-No"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "I-No Continue Unlock",
+    "category": [
+      "Continue Unlock",
+      "I-No"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "I-No Completed",
+    "category": [
+      "Character Completed",
+      "I-No"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "I-No Gold",
+    "category": [
+      "Gold Mode",
+      "I-No"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "I-No Shadow",
+    "category": [
+      "Shadow Mode",
+      "I-No"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "I-No EX Mode",
+    "category": [
+      "EX Mode",
+      "I-No"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "I-No Single Round",
+    "category": [
+      "Single Round",
+      "I-No"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "I-No EX Palette",
+    "category": [
+      "Color Palette",
+      "I-No"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "I-No Slash Palette",
+    "category": [
+      "Color Palette",
+      "I-No"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "I-No Reload Palette",
+    "category": [
+      "Color Palette",
+      "I-No"
+    ],
+    "filler": true
+  }
+]

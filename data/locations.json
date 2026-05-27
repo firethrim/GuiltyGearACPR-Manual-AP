@@ -1,0 +1,4461 @@
+[
+  {
+    "name": "Finish Specified Number of Arcade Modes",
+    "victory": true
+  },
+  {
+    "name": "Kliff Lose",
+    "region": "Kliff Stages",
+    "category": [
+      "Kliff",
+      "Lose"
+    ],
+    "place_item": [
+      "Kliff Difficulty Reduction"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Kliff Stage 1 Win",
+    "region": "Kliff Stages",
+    "category": [
+      "Kliff",
+      "Stage 1"
+    ],
+    "requires": "|Kliff Difficulty Reduction:1|"
+  },
+  {
+    "name": "Kliff Stage 2 Win",
+    "region": "Kliff Stages",
+    "category": [
+      "Kliff",
+      "Stage 2"
+    ],
+    "requires": "|Kliff Continue Unlock| and |Kliff Difficulty Reduction:1|"
+  },
+  {
+    "name": "Kliff Stage 3 Win",
+    "region": "Kliff Stages",
+    "category": [
+      "Kliff",
+      "Stage 3"
+    ],
+    "requires": "|Kliff Continue Unlock| and |Kliff Difficulty Reduction:2|"
+  },
+  {
+    "name": "Kliff Stage 4 Win",
+    "region": "Kliff Stages",
+    "category": [
+      "Kliff",
+      "Stage 4"
+    ],
+    "requires": "|Kliff Continue Unlock| and |Kliff Difficulty Reduction:2|"
+  },
+  {
+    "name": "Kliff Stage 5 Win",
+    "region": "Kliff Stages",
+    "category": [
+      "Kliff",
+      "Stage 5"
+    ],
+    "requires": "|Kliff Continue Unlock| and |Kliff Difficulty Reduction:3|"
+  },
+  {
+    "name": "Kliff Stage 6 Win",
+    "region": "Kliff Stages",
+    "category": [
+      "Kliff",
+      "Stage 6"
+    ],
+    "requires": "|Kliff Continue Unlock| and |Kliff Difficulty Reduction:3|"
+  },
+  {
+    "name": "Kliff Stage 7 Win",
+    "region": "Kliff Stages",
+    "category": [
+      "Kliff",
+      "Stage 7"
+    ],
+    "requires": "|Kliff Continue Unlock| and |Kliff Difficulty Reduction:4|"
+  },
+  {
+    "name": "Kliff Stage 8 Win",
+    "region": "Kliff Stages",
+    "category": [
+      "Kliff",
+      "Stage 8"
+    ],
+    "requires": "|Kliff Continue Unlock| and |Kliff Difficulty Reduction:4|"
+  },
+  {
+    "name": "Kliff Stage 9 Win",
+    "region": "Kliff Stages",
+    "category": [
+      "Kliff",
+      "Stage 9"
+    ],
+    "requires": "|Kliff Continue Unlock| and |Kliff Difficulty Reduction:5|"
+  },
+  {
+    "name": "Kliff Stage 10 Win",
+    "region": "Kliff Stages",
+    "category": [
+      "Kliff",
+      "Stage 10"
+    ],
+    "requires": "|Kliff Continue Unlock| and |Kliff Difficulty Reduction:5|"
+  },
+  {
+    "name": "Kliff Complete",
+    "region": "Kliff Stages",
+    "category": [
+      "Kliff",
+      "Complete"
+    ],
+    "place_item": [
+      "Kliff Completed"
+    ],
+    "requires": "|Kliff Continue Unlock| and |Kliff Difficulty Reduction:5|"
+  },
+  {
+    "name": "Kliff Perfect Win",
+    "region": "Kliff Stages",
+    "category": [
+      "Kliff",
+      "Perfect Win"
+    ],
+    "requires": "|Kliff Difficulty Reduction:5|"
+  },
+  {
+    "name": "Kliff Instant Kill Win",
+    "region": "Kliff Stages",
+    "category": [
+      "Kliff",
+      "Instant Kill"
+    ],
+    "requires": "|Kliff Instant Kill|"
+  },
+  {
+    "name": "Kliff Super Finish",
+    "region": "Kliff Stages",
+    "category": [
+      "Kliff",
+      "Super Finish"
+    ]
+  },
+  {
+    "name": "Kliff Taunt and Still Win",
+    "region": "Kliff Stages",
+    "category": [
+      "Kliff",
+      "Taunt"
+    ]
+  },
+  {
+    "name": "Kliff Win With Full Meter",
+    "region": "Kliff Stages",
+    "category": [
+      "Kliff",
+      "Full Meter"
+    ]
+  },
+  {
+    "name": "Kliff Nice Burst",
+    "region": "Kliff Stages",
+    "category": [
+      "Kliff",
+      "Nice Burst"
+    ]
+  },
+  {
+    "name": "Kliff No Burst Win",
+    "region": "Kliff Stages",
+    "category": [
+      "Kliff",
+      "No Burst"
+    ]
+  },
+  {
+    "name": "Axl Lose",
+    "region": "Axl Stages",
+    "category": [
+      "Axl",
+      "Lose"
+    ],
+    "place_item": [
+      "Axl Difficulty Reduction"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Axl Stage 1 Win",
+    "region": "Axl Stages",
+    "category": [
+      "Axl",
+      "Stage 1"
+    ],
+    "requires": "|Axl Difficulty Reduction:1|"
+  },
+  {
+    "name": "Axl Stage 2 Win",
+    "region": "Axl Stages",
+    "category": [
+      "Axl",
+      "Stage 2"
+    ],
+    "requires": "|Axl Continue Unlock| and |Axl Difficulty Reduction:1|"
+  },
+  {
+    "name": "Axl Stage 3 Win",
+    "region": "Axl Stages",
+    "category": [
+      "Axl",
+      "Stage 3"
+    ],
+    "requires": "|Axl Continue Unlock| and |Axl Difficulty Reduction:2|"
+  },
+  {
+    "name": "Axl Stage 4 Win",
+    "region": "Axl Stages",
+    "category": [
+      "Axl",
+      "Stage 4"
+    ],
+    "requires": "|Axl Continue Unlock| and |Axl Difficulty Reduction:2|"
+  },
+  {
+    "name": "Axl Stage 5 Win",
+    "region": "Axl Stages",
+    "category": [
+      "Axl",
+      "Stage 5"
+    ],
+    "requires": "|Axl Continue Unlock| and |Axl Difficulty Reduction:3|"
+  },
+  {
+    "name": "Axl Stage 6 Win",
+    "region": "Axl Stages",
+    "category": [
+      "Axl",
+      "Stage 6"
+    ],
+    "requires": "|Axl Continue Unlock| and |Axl Difficulty Reduction:3|"
+  },
+  {
+    "name": "Axl Stage 7 Win",
+    "region": "Axl Stages",
+    "category": [
+      "Axl",
+      "Stage 7"
+    ],
+    "requires": "|Axl Continue Unlock| and |Axl Difficulty Reduction:4|"
+  },
+  {
+    "name": "Axl Stage 8 Win",
+    "region": "Axl Stages",
+    "category": [
+      "Axl",
+      "Stage 8"
+    ],
+    "requires": "|Axl Continue Unlock| and |Axl Difficulty Reduction:4|"
+  },
+  {
+    "name": "Axl Stage 9 Win",
+    "region": "Axl Stages",
+    "category": [
+      "Axl",
+      "Stage 9"
+    ],
+    "requires": "|Axl Continue Unlock| and |Axl Difficulty Reduction:5|"
+  },
+  {
+    "name": "Axl Stage 10 Win",
+    "region": "Axl Stages",
+    "category": [
+      "Axl",
+      "Stage 10"
+    ],
+    "requires": "|Axl Continue Unlock| and |Axl Difficulty Reduction:5|"
+  },
+  {
+    "name": "Axl Complete",
+    "region": "Axl Stages",
+    "category": [
+      "Axl",
+      "Complete"
+    ],
+    "place_item": [
+      "Axl Completed"
+    ],
+    "requires": "|Axl Continue Unlock| and |Axl Difficulty Reduction:5|"
+  },
+  {
+    "name": "Axl Perfect Win",
+    "region": "Axl Stages",
+    "category": [
+      "Axl",
+      "Perfect Win"
+    ],
+    "requires": "|Axl Difficulty Reduction:5|"
+  },
+  {
+    "name": "Axl Instant Kill Win",
+    "region": "Axl Stages",
+    "category": [
+      "Axl",
+      "Instant Kill"
+    ],
+    "requires": "|Axl Instant Kill|"
+  },
+  {
+    "name": "Axl Super Finish",
+    "region": "Axl Stages",
+    "category": [
+      "Axl",
+      "Super Finish"
+    ]
+  },
+  {
+    "name": "Axl Taunt and Still Win",
+    "region": "Axl Stages",
+    "category": [
+      "Axl",
+      "Taunt"
+    ]
+  },
+  {
+    "name": "Axl Win With Full Meter",
+    "region": "Axl Stages",
+    "category": [
+      "Axl",
+      "Full Meter"
+    ]
+  },
+  {
+    "name": "Axl Nice Burst",
+    "region": "Axl Stages",
+    "category": [
+      "Axl",
+      "Nice Burst"
+    ]
+  },
+  {
+    "name": "Axl No Burst Win",
+    "region": "Axl Stages",
+    "category": [
+      "Axl",
+      "No Burst"
+    ]
+  },
+  {
+    "name": "Jam Lose",
+    "region": "Jam Stages",
+    "category": [
+      "Jam",
+      "Lose"
+    ],
+    "place_item": [
+      "Jam Difficulty Reduction"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Jam Stage 1 Win",
+    "region": "Jam Stages",
+    "category": [
+      "Jam",
+      "Stage 1"
+    ],
+    "requires": "|Jam Difficulty Reduction:1|"
+  },
+  {
+    "name": "Jam Stage 2 Win",
+    "region": "Jam Stages",
+    "category": [
+      "Jam",
+      "Stage 2"
+    ],
+    "requires": "|Jam Continue Unlock| and |Jam Difficulty Reduction:1|"
+  },
+  {
+    "name": "Jam Stage 3 Win",
+    "region": "Jam Stages",
+    "category": [
+      "Jam",
+      "Stage 3"
+    ],
+    "requires": "|Jam Continue Unlock| and |Jam Difficulty Reduction:2|"
+  },
+  {
+    "name": "Jam Stage 4 Win",
+    "region": "Jam Stages",
+    "category": [
+      "Jam",
+      "Stage 4"
+    ],
+    "requires": "|Jam Continue Unlock| and |Jam Difficulty Reduction:2|"
+  },
+  {
+    "name": "Jam Stage 5 Win",
+    "region": "Jam Stages",
+    "category": [
+      "Jam",
+      "Stage 5"
+    ],
+    "requires": "|Jam Continue Unlock| and |Jam Difficulty Reduction:3|"
+  },
+  {
+    "name": "Jam Stage 6 Win",
+    "region": "Jam Stages",
+    "category": [
+      "Jam",
+      "Stage 6"
+    ],
+    "requires": "|Jam Continue Unlock| and |Jam Difficulty Reduction:3|"
+  },
+  {
+    "name": "Jam Stage 7 Win",
+    "region": "Jam Stages",
+    "category": [
+      "Jam",
+      "Stage 7"
+    ],
+    "requires": "|Jam Continue Unlock| and |Jam Difficulty Reduction:4|"
+  },
+  {
+    "name": "Jam Stage 8 Win",
+    "region": "Jam Stages",
+    "category": [
+      "Jam",
+      "Stage 8"
+    ],
+    "requires": "|Jam Continue Unlock| and |Jam Difficulty Reduction:4|"
+  },
+  {
+    "name": "Jam Stage 9 Win",
+    "region": "Jam Stages",
+    "category": [
+      "Jam",
+      "Stage 9"
+    ],
+    "requires": "|Jam Continue Unlock| and |Jam Difficulty Reduction:5|"
+  },
+  {
+    "name": "Jam Stage 10 Win",
+    "region": "Jam Stages",
+    "category": [
+      "Jam",
+      "Stage 10"
+    ],
+    "requires": "|Jam Continue Unlock| and |Jam Difficulty Reduction:5|"
+  },
+  {
+    "name": "Jam Complete",
+    "region": "Jam Stages",
+    "category": [
+      "Jam",
+      "Complete"
+    ],
+    "place_item": [
+      "Jam Completed"
+    ],
+    "requires": "|Jam Continue Unlock| and |Jam Difficulty Reduction:5|"
+  },
+  {
+    "name": "Jam Perfect Win",
+    "region": "Jam Stages",
+    "category": [
+      "Jam",
+      "Perfect Win"
+    ],
+    "requires": "|Jam Difficulty Reduction:5|"
+  },
+  {
+    "name": "Jam Instant Kill Win",
+    "region": "Jam Stages",
+    "category": [
+      "Jam",
+      "Instant Kill"
+    ],
+    "requires": "|Jam Instant Kill|"
+  },
+  {
+    "name": "Jam Super Finish",
+    "region": "Jam Stages",
+    "category": [
+      "Jam",
+      "Super Finish"
+    ]
+  },
+  {
+    "name": "Jam Taunt and Still Win",
+    "region": "Jam Stages",
+    "category": [
+      "Jam",
+      "Taunt"
+    ]
+  },
+  {
+    "name": "Jam Win With Full Meter",
+    "region": "Jam Stages",
+    "category": [
+      "Jam",
+      "Full Meter"
+    ]
+  },
+  {
+    "name": "Jam Nice Burst",
+    "region": "Jam Stages",
+    "category": [
+      "Jam",
+      "Nice Burst"
+    ]
+  },
+  {
+    "name": "Jam No Burst Win",
+    "region": "Jam Stages",
+    "category": [
+      "Jam",
+      "No Burst"
+    ]
+  },
+  {
+    "name": "Zappa Lose",
+    "region": "Zappa Stages",
+    "category": [
+      "Zappa",
+      "Lose"
+    ],
+    "place_item": [
+      "Zappa Difficulty Reduction"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Zappa Stage 1 Win",
+    "region": "Zappa Stages",
+    "category": [
+      "Zappa",
+      "Stage 1"
+    ],
+    "requires": "|Zappa Difficulty Reduction:1|"
+  },
+  {
+    "name": "Zappa Stage 2 Win",
+    "region": "Zappa Stages",
+    "category": [
+      "Zappa",
+      "Stage 2"
+    ],
+    "requires": "|Zappa Continue Unlock| and |Zappa Difficulty Reduction:1|"
+  },
+  {
+    "name": "Zappa Stage 3 Win",
+    "region": "Zappa Stages",
+    "category": [
+      "Zappa",
+      "Stage 3"
+    ],
+    "requires": "|Zappa Continue Unlock| and |Zappa Difficulty Reduction:2|"
+  },
+  {
+    "name": "Zappa Stage 4 Win",
+    "region": "Zappa Stages",
+    "category": [
+      "Zappa",
+      "Stage 4"
+    ],
+    "requires": "|Zappa Continue Unlock| and |Zappa Difficulty Reduction:2|"
+  },
+  {
+    "name": "Zappa Stage 5 Win",
+    "region": "Zappa Stages",
+    "category": [
+      "Zappa",
+      "Stage 5"
+    ],
+    "requires": "|Zappa Continue Unlock| and |Zappa Difficulty Reduction:3|"
+  },
+  {
+    "name": "Zappa Stage 6 Win",
+    "region": "Zappa Stages",
+    "category": [
+      "Zappa",
+      "Stage 6"
+    ],
+    "requires": "|Zappa Continue Unlock| and |Zappa Difficulty Reduction:3|"
+  },
+  {
+    "name": "Zappa Stage 7 Win",
+    "region": "Zappa Stages",
+    "category": [
+      "Zappa",
+      "Stage 7"
+    ],
+    "requires": "|Zappa Continue Unlock| and |Zappa Difficulty Reduction:4|"
+  },
+  {
+    "name": "Zappa Stage 8 Win",
+    "region": "Zappa Stages",
+    "category": [
+      "Zappa",
+      "Stage 8"
+    ],
+    "requires": "|Zappa Continue Unlock| and |Zappa Difficulty Reduction:4|"
+  },
+  {
+    "name": "Zappa Stage 9 Win",
+    "region": "Zappa Stages",
+    "category": [
+      "Zappa",
+      "Stage 9"
+    ],
+    "requires": "|Zappa Continue Unlock| and |Zappa Difficulty Reduction:5|"
+  },
+  {
+    "name": "Zappa Stage 10 Win",
+    "region": "Zappa Stages",
+    "category": [
+      "Zappa",
+      "Stage 10"
+    ],
+    "requires": "|Zappa Continue Unlock| and |Zappa Difficulty Reduction:5|"
+  },
+  {
+    "name": "Zappa Complete",
+    "region": "Zappa Stages",
+    "category": [
+      "Zappa",
+      "Complete"
+    ],
+    "place_item": [
+      "Zappa Completed"
+    ],
+    "requires": "|Zappa Continue Unlock| and |Zappa Difficulty Reduction:5|"
+  },
+  {
+    "name": "Zappa Perfect Win",
+    "region": "Zappa Stages",
+    "category": [
+      "Zappa",
+      "Perfect Win"
+    ],
+    "requires": "|Zappa Difficulty Reduction:5|"
+  },
+  {
+    "name": "Zappa Instant Kill Win",
+    "region": "Zappa Stages",
+    "category": [
+      "Zappa",
+      "Instant Kill"
+    ],
+    "requires": "|Zappa Instant Kill|"
+  },
+  {
+    "name": "Zappa Super Finish",
+    "region": "Zappa Stages",
+    "category": [
+      "Zappa",
+      "Super Finish"
+    ]
+  },
+  {
+    "name": "Zappa Taunt and Still Win",
+    "region": "Zappa Stages",
+    "category": [
+      "Zappa",
+      "Taunt"
+    ]
+  },
+  {
+    "name": "Zappa Win With Full Meter",
+    "region": "Zappa Stages",
+    "category": [
+      "Zappa",
+      "Full Meter"
+    ]
+  },
+  {
+    "name": "Zappa Nice Burst",
+    "region": "Zappa Stages",
+    "category": [
+      "Zappa",
+      "Nice Burst"
+    ]
+  },
+  {
+    "name": "Zappa No Burst Win",
+    "region": "Zappa Stages",
+    "category": [
+      "Zappa",
+      "No Burst"
+    ]
+  },
+  {
+    "name": "Chipp Lose",
+    "region": "Chipp Stages",
+    "category": [
+      "Chipp",
+      "Lose"
+    ],
+    "place_item": [
+      "Chipp Difficulty Reduction"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Chipp Stage 1 Win",
+    "region": "Chipp Stages",
+    "category": [
+      "Chipp",
+      "Stage 1"
+    ],
+    "requires": "|Chipp Difficulty Reduction:1|"
+  },
+  {
+    "name": "Chipp Stage 2 Win",
+    "region": "Chipp Stages",
+    "category": [
+      "Chipp",
+      "Stage 2"
+    ],
+    "requires": "|Chipp Continue Unlock| and |Chipp Difficulty Reduction:1|"
+  },
+  {
+    "name": "Chipp Stage 3 Win",
+    "region": "Chipp Stages",
+    "category": [
+      "Chipp",
+      "Stage 3"
+    ],
+    "requires": "|Chipp Continue Unlock| and |Chipp Difficulty Reduction:2|"
+  },
+  {
+    "name": "Chipp Stage 4 Win",
+    "region": "Chipp Stages",
+    "category": [
+      "Chipp",
+      "Stage 4"
+    ],
+    "requires": "|Chipp Continue Unlock| and |Chipp Difficulty Reduction:2|"
+  },
+  {
+    "name": "Chipp Stage 5 Win",
+    "region": "Chipp Stages",
+    "category": [
+      "Chipp",
+      "Stage 5"
+    ],
+    "requires": "|Chipp Continue Unlock| and |Chipp Difficulty Reduction:3|"
+  },
+  {
+    "name": "Chipp Stage 6 Win",
+    "region": "Chipp Stages",
+    "category": [
+      "Chipp",
+      "Stage 6"
+    ],
+    "requires": "|Chipp Continue Unlock| and |Chipp Difficulty Reduction:3|"
+  },
+  {
+    "name": "Chipp Stage 7 Win",
+    "region": "Chipp Stages",
+    "category": [
+      "Chipp",
+      "Stage 7"
+    ],
+    "requires": "|Chipp Continue Unlock| and |Chipp Difficulty Reduction:4|"
+  },
+  {
+    "name": "Chipp Stage 8 Win",
+    "region": "Chipp Stages",
+    "category": [
+      "Chipp",
+      "Stage 8"
+    ],
+    "requires": "|Chipp Continue Unlock| and |Chipp Difficulty Reduction:4|"
+  },
+  {
+    "name": "Chipp Stage 9 Win",
+    "region": "Chipp Stages",
+    "category": [
+      "Chipp",
+      "Stage 9"
+    ],
+    "requires": "|Chipp Continue Unlock| and |Chipp Difficulty Reduction:5|"
+  },
+  {
+    "name": "Chipp Stage 10 Win",
+    "region": "Chipp Stages",
+    "category": [
+      "Chipp",
+      "Stage 10"
+    ],
+    "requires": "|Chipp Continue Unlock| and |Chipp Difficulty Reduction:5|"
+  },
+  {
+    "name": "Chipp Complete",
+    "region": "Chipp Stages",
+    "category": [
+      "Chipp",
+      "Complete"
+    ],
+    "place_item": [
+      "Chipp Completed"
+    ],
+    "requires": "|Chipp Continue Unlock| and |Chipp Difficulty Reduction:5|"
+  },
+  {
+    "name": "Chipp Perfect Win",
+    "region": "Chipp Stages",
+    "category": [
+      "Chipp",
+      "Perfect Win"
+    ],
+    "requires": "|Chipp Difficulty Reduction:5|"
+  },
+  {
+    "name": "Chipp Instant Kill Win",
+    "region": "Chipp Stages",
+    "category": [
+      "Chipp",
+      "Instant Kill"
+    ],
+    "requires": "|Chipp Instant Kill|"
+  },
+  {
+    "name": "Chipp Super Finish",
+    "region": "Chipp Stages",
+    "category": [
+      "Chipp",
+      "Super Finish"
+    ]
+  },
+  {
+    "name": "Chipp Taunt and Still Win",
+    "region": "Chipp Stages",
+    "category": [
+      "Chipp",
+      "Taunt"
+    ]
+  },
+  {
+    "name": "Chipp Win With Full Meter",
+    "region": "Chipp Stages",
+    "category": [
+      "Chipp",
+      "Full Meter"
+    ]
+  },
+  {
+    "name": "Chipp Nice Burst",
+    "region": "Chipp Stages",
+    "category": [
+      "Chipp",
+      "Nice Burst"
+    ]
+  },
+  {
+    "name": "Chipp No Burst Win",
+    "region": "Chipp Stages",
+    "category": [
+      "Chipp",
+      "No Burst"
+    ]
+  },
+  {
+    "name": "Dizzy Lose",
+    "region": "Dizzy Stages",
+    "category": [
+      "Dizzy",
+      "Lose"
+    ],
+    "place_item": [
+      "Dizzy Difficulty Reduction"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Dizzy Stage 1 Win",
+    "region": "Dizzy Stages",
+    "category": [
+      "Dizzy",
+      "Stage 1"
+    ],
+    "requires": "|Dizzy Difficulty Reduction:1|"
+  },
+  {
+    "name": "Dizzy Stage 2 Win",
+    "region": "Dizzy Stages",
+    "category": [
+      "Dizzy",
+      "Stage 2"
+    ],
+    "requires": "|Dizzy Continue Unlock| and |Dizzy Difficulty Reduction:1|"
+  },
+  {
+    "name": "Dizzy Stage 3 Win",
+    "region": "Dizzy Stages",
+    "category": [
+      "Dizzy",
+      "Stage 3"
+    ],
+    "requires": "|Dizzy Continue Unlock| and |Dizzy Difficulty Reduction:2|"
+  },
+  {
+    "name": "Dizzy Stage 4 Win",
+    "region": "Dizzy Stages",
+    "category": [
+      "Dizzy",
+      "Stage 4"
+    ],
+    "requires": "|Dizzy Continue Unlock| and |Dizzy Difficulty Reduction:2|"
+  },
+  {
+    "name": "Dizzy Stage 5 Win",
+    "region": "Dizzy Stages",
+    "category": [
+      "Dizzy",
+      "Stage 5"
+    ],
+    "requires": "|Dizzy Continue Unlock| and |Dizzy Difficulty Reduction:3|"
+  },
+  {
+    "name": "Dizzy Stage 6 Win",
+    "region": "Dizzy Stages",
+    "category": [
+      "Dizzy",
+      "Stage 6"
+    ],
+    "requires": "|Dizzy Continue Unlock| and |Dizzy Difficulty Reduction:3|"
+  },
+  {
+    "name": "Dizzy Stage 7 Win",
+    "region": "Dizzy Stages",
+    "category": [
+      "Dizzy",
+      "Stage 7"
+    ],
+    "requires": "|Dizzy Continue Unlock| and |Dizzy Difficulty Reduction:4|"
+  },
+  {
+    "name": "Dizzy Stage 8 Win",
+    "region": "Dizzy Stages",
+    "category": [
+      "Dizzy",
+      "Stage 8"
+    ],
+    "requires": "|Dizzy Continue Unlock| and |Dizzy Difficulty Reduction:4|"
+  },
+  {
+    "name": "Dizzy Stage 9 Win",
+    "region": "Dizzy Stages",
+    "category": [
+      "Dizzy",
+      "Stage 9"
+    ],
+    "requires": "|Dizzy Continue Unlock| and |Dizzy Difficulty Reduction:5|"
+  },
+  {
+    "name": "Dizzy Stage 10 Win",
+    "region": "Dizzy Stages",
+    "category": [
+      "Dizzy",
+      "Stage 10"
+    ],
+    "requires": "|Dizzy Continue Unlock| and |Dizzy Difficulty Reduction:5|"
+  },
+  {
+    "name": "Dizzy Complete",
+    "region": "Dizzy Stages",
+    "category": [
+      "Dizzy",
+      "Complete"
+    ],
+    "place_item": [
+      "Dizzy Completed"
+    ],
+    "requires": "|Dizzy Continue Unlock| and |Dizzy Difficulty Reduction:5|"
+  },
+  {
+    "name": "Dizzy Perfect Win",
+    "region": "Dizzy Stages",
+    "category": [
+      "Dizzy",
+      "Perfect Win"
+    ],
+    "requires": "|Dizzy Difficulty Reduction:5|"
+  },
+  {
+    "name": "Dizzy Instant Kill Win",
+    "region": "Dizzy Stages",
+    "category": [
+      "Dizzy",
+      "Instant Kill"
+    ],
+    "requires": "|Dizzy Instant Kill|"
+  },
+  {
+    "name": "Dizzy Super Finish",
+    "region": "Dizzy Stages",
+    "category": [
+      "Dizzy",
+      "Super Finish"
+    ]
+  },
+  {
+    "name": "Dizzy Taunt and Still Win",
+    "region": "Dizzy Stages",
+    "category": [
+      "Dizzy",
+      "Taunt"
+    ]
+  },
+  {
+    "name": "Dizzy Win With Full Meter",
+    "region": "Dizzy Stages",
+    "category": [
+      "Dizzy",
+      "Full Meter"
+    ]
+  },
+  {
+    "name": "Dizzy Nice Burst",
+    "region": "Dizzy Stages",
+    "category": [
+      "Dizzy",
+      "Nice Burst"
+    ]
+  },
+  {
+    "name": "Dizzy No Burst Win",
+    "region": "Dizzy Stages",
+    "category": [
+      "Dizzy",
+      "No Burst"
+    ]
+  },
+  {
+    "name": "Anji Lose",
+    "region": "Anji Stages",
+    "category": [
+      "Anji",
+      "Lose"
+    ],
+    "place_item": [
+      "Anji Difficulty Reduction"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Anji Stage 1 Win",
+    "region": "Anji Stages",
+    "category": [
+      "Anji",
+      "Stage 1"
+    ],
+    "requires": "|Anji Difficulty Reduction:1|"
+  },
+  {
+    "name": "Anji Stage 2 Win",
+    "region": "Anji Stages",
+    "category": [
+      "Anji",
+      "Stage 2"
+    ],
+    "requires": "|Anji Continue Unlock| and |Anji Difficulty Reduction:1|"
+  },
+  {
+    "name": "Anji Stage 3 Win",
+    "region": "Anji Stages",
+    "category": [
+      "Anji",
+      "Stage 3"
+    ],
+    "requires": "|Anji Continue Unlock| and |Anji Difficulty Reduction:2|"
+  },
+  {
+    "name": "Anji Stage 4 Win",
+    "region": "Anji Stages",
+    "category": [
+      "Anji",
+      "Stage 4"
+    ],
+    "requires": "|Anji Continue Unlock| and |Anji Difficulty Reduction:2|"
+  },
+  {
+    "name": "Anji Stage 5 Win",
+    "region": "Anji Stages",
+    "category": [
+      "Anji",
+      "Stage 5"
+    ],
+    "requires": "|Anji Continue Unlock| and |Anji Difficulty Reduction:3|"
+  },
+  {
+    "name": "Anji Stage 6 Win",
+    "region": "Anji Stages",
+    "category": [
+      "Anji",
+      "Stage 6"
+    ],
+    "requires": "|Anji Continue Unlock| and |Anji Difficulty Reduction:3|"
+  },
+  {
+    "name": "Anji Stage 7 Win",
+    "region": "Anji Stages",
+    "category": [
+      "Anji",
+      "Stage 7"
+    ],
+    "requires": "|Anji Continue Unlock| and |Anji Difficulty Reduction:4|"
+  },
+  {
+    "name": "Anji Stage 8 Win",
+    "region": "Anji Stages",
+    "category": [
+      "Anji",
+      "Stage 8"
+    ],
+    "requires": "|Anji Continue Unlock| and |Anji Difficulty Reduction:4|"
+  },
+  {
+    "name": "Anji Stage 9 Win",
+    "region": "Anji Stages",
+    "category": [
+      "Anji",
+      "Stage 9"
+    ],
+    "requires": "|Anji Continue Unlock| and |Anji Difficulty Reduction:5|"
+  },
+  {
+    "name": "Anji Stage 10 Win",
+    "region": "Anji Stages",
+    "category": [
+      "Anji",
+      "Stage 10"
+    ],
+    "requires": "|Anji Continue Unlock| and |Anji Difficulty Reduction:5|"
+  },
+  {
+    "name": "Anji Complete",
+    "region": "Anji Stages",
+    "category": [
+      "Anji",
+      "Complete"
+    ],
+    "place_item": [
+      "Anji Completed"
+    ],
+    "requires": "|Anji Continue Unlock| and |Anji Difficulty Reduction:5|"
+  },
+  {
+    "name": "Anji Perfect Win",
+    "region": "Anji Stages",
+    "category": [
+      "Anji",
+      "Perfect Win"
+    ],
+    "requires": "|Anji Difficulty Reduction:5|"
+  },
+  {
+    "name": "Anji Instant Kill Win",
+    "region": "Anji Stages",
+    "category": [
+      "Anji",
+      "Instant Kill"
+    ],
+    "requires": "|Anji Instant Kill|"
+  },
+  {
+    "name": "Anji Super Finish",
+    "region": "Anji Stages",
+    "category": [
+      "Anji",
+      "Super Finish"
+    ]
+  },
+  {
+    "name": "Anji Taunt and Still Win",
+    "region": "Anji Stages",
+    "category": [
+      "Anji",
+      "Taunt"
+    ]
+  },
+  {
+    "name": "Anji Win With Full Meter",
+    "region": "Anji Stages",
+    "category": [
+      "Anji",
+      "Full Meter"
+    ]
+  },
+  {
+    "name": "Anji Nice Burst",
+    "region": "Anji Stages",
+    "category": [
+      "Anji",
+      "Nice Burst"
+    ]
+  },
+  {
+    "name": "Anji No Burst Win",
+    "region": "Anji Stages",
+    "category": [
+      "Anji",
+      "No Burst"
+    ]
+  },
+  {
+    "name": "Slayer Lose",
+    "region": "Slayer Stages",
+    "category": [
+      "Slayer",
+      "Lose"
+    ],
+    "place_item": [
+      "Slayer Difficulty Reduction"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Slayer Stage 1 Win",
+    "region": "Slayer Stages",
+    "category": [
+      "Slayer",
+      "Stage 1"
+    ],
+    "requires": "|Slayer Difficulty Reduction:1|"
+  },
+  {
+    "name": "Slayer Stage 2 Win",
+    "region": "Slayer Stages",
+    "category": [
+      "Slayer",
+      "Stage 2"
+    ],
+    "requires": "|Slayer Continue Unlock| and |Slayer Difficulty Reduction:1|"
+  },
+  {
+    "name": "Slayer Stage 3 Win",
+    "region": "Slayer Stages",
+    "category": [
+      "Slayer",
+      "Stage 3"
+    ],
+    "requires": "|Slayer Continue Unlock| and |Slayer Difficulty Reduction:2|"
+  },
+  {
+    "name": "Slayer Stage 4 Win",
+    "region": "Slayer Stages",
+    "category": [
+      "Slayer",
+      "Stage 4"
+    ],
+    "requires": "|Slayer Continue Unlock| and |Slayer Difficulty Reduction:2|"
+  },
+  {
+    "name": "Slayer Stage 5 Win",
+    "region": "Slayer Stages",
+    "category": [
+      "Slayer",
+      "Stage 5"
+    ],
+    "requires": "|Slayer Continue Unlock| and |Slayer Difficulty Reduction:3|"
+  },
+  {
+    "name": "Slayer Stage 6 Win",
+    "region": "Slayer Stages",
+    "category": [
+      "Slayer",
+      "Stage 6"
+    ],
+    "requires": "|Slayer Continue Unlock| and |Slayer Difficulty Reduction:3|"
+  },
+  {
+    "name": "Slayer Stage 7 Win",
+    "region": "Slayer Stages",
+    "category": [
+      "Slayer",
+      "Stage 7"
+    ],
+    "requires": "|Slayer Continue Unlock| and |Slayer Difficulty Reduction:4|"
+  },
+  {
+    "name": "Slayer Stage 8 Win",
+    "region": "Slayer Stages",
+    "category": [
+      "Slayer",
+      "Stage 8"
+    ],
+    "requires": "|Slayer Continue Unlock| and |Slayer Difficulty Reduction:4|"
+  },
+  {
+    "name": "Slayer Stage 9 Win",
+    "region": "Slayer Stages",
+    "category": [
+      "Slayer",
+      "Stage 9"
+    ],
+    "requires": "|Slayer Continue Unlock| and |Slayer Difficulty Reduction:5|"
+  },
+  {
+    "name": "Slayer Stage 10 Win",
+    "region": "Slayer Stages",
+    "category": [
+      "Slayer",
+      "Stage 10"
+    ],
+    "requires": "|Slayer Continue Unlock| and |Slayer Difficulty Reduction:5|"
+  },
+  {
+    "name": "Slayer Complete",
+    "region": "Slayer Stages",
+    "category": [
+      "Slayer",
+      "Complete"
+    ],
+    "place_item": [
+      "Slayer Completed"
+    ],
+    "requires": "|Slayer Continue Unlock| and |Slayer Difficulty Reduction:5|"
+  },
+  {
+    "name": "Slayer Perfect Win",
+    "region": "Slayer Stages",
+    "category": [
+      "Slayer",
+      "Perfect Win"
+    ],
+    "requires": "|Slayer Difficulty Reduction:5|"
+  },
+  {
+    "name": "Slayer Instant Kill Win",
+    "region": "Slayer Stages",
+    "category": [
+      "Slayer",
+      "Instant Kill"
+    ],
+    "requires": "|Slayer Instant Kill|"
+  },
+  {
+    "name": "Slayer Super Finish",
+    "region": "Slayer Stages",
+    "category": [
+      "Slayer",
+      "Super Finish"
+    ]
+  },
+  {
+    "name": "Slayer Taunt and Still Win",
+    "region": "Slayer Stages",
+    "category": [
+      "Slayer",
+      "Taunt"
+    ]
+  },
+  {
+    "name": "Slayer Win With Full Meter",
+    "region": "Slayer Stages",
+    "category": [
+      "Slayer",
+      "Full Meter"
+    ]
+  },
+  {
+    "name": "Slayer Nice Burst",
+    "region": "Slayer Stages",
+    "category": [
+      "Slayer",
+      "Nice Burst"
+    ]
+  },
+  {
+    "name": "Slayer No Burst Win",
+    "region": "Slayer Stages",
+    "category": [
+      "Slayer",
+      "No Burst"
+    ]
+  },
+  {
+    "name": "ABA Lose",
+    "region": "ABA Stages",
+    "category": [
+      "ABA",
+      "Lose"
+    ],
+    "place_item": [
+      "ABA Difficulty Reduction"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "ABA Stage 1 Win",
+    "region": "ABA Stages",
+    "category": [
+      "ABA",
+      "Stage 1"
+    ],
+    "requires": "|ABA Difficulty Reduction:1|"
+  },
+  {
+    "name": "ABA Stage 2 Win",
+    "region": "ABA Stages",
+    "category": [
+      "ABA",
+      "Stage 2"
+    ],
+    "requires": "|ABA Continue Unlock| and |ABA Difficulty Reduction:1|"
+  },
+  {
+    "name": "ABA Stage 3 Win",
+    "region": "ABA Stages",
+    "category": [
+      "ABA",
+      "Stage 3"
+    ],
+    "requires": "|ABA Continue Unlock| and |ABA Difficulty Reduction:2|"
+  },
+  {
+    "name": "ABA Stage 4 Win",
+    "region": "ABA Stages",
+    "category": [
+      "ABA",
+      "Stage 4"
+    ],
+    "requires": "|ABA Continue Unlock| and |ABA Difficulty Reduction:2|"
+  },
+  {
+    "name": "ABA Stage 5 Win",
+    "region": "ABA Stages",
+    "category": [
+      "ABA",
+      "Stage 5"
+    ],
+    "requires": "|ABA Continue Unlock| and |ABA Difficulty Reduction:3|"
+  },
+  {
+    "name": "ABA Stage 6 Win",
+    "region": "ABA Stages",
+    "category": [
+      "ABA",
+      "Stage 6"
+    ],
+    "requires": "|ABA Continue Unlock| and |ABA Difficulty Reduction:3|"
+  },
+  {
+    "name": "ABA Stage 7 Win",
+    "region": "ABA Stages",
+    "category": [
+      "ABA",
+      "Stage 7"
+    ],
+    "requires": "|ABA Continue Unlock| and |ABA Difficulty Reduction:4|"
+  },
+  {
+    "name": "ABA Stage 8 Win",
+    "region": "ABA Stages",
+    "category": [
+      "ABA",
+      "Stage 8"
+    ],
+    "requires": "|ABA Continue Unlock| and |ABA Difficulty Reduction:4|"
+  },
+  {
+    "name": "ABA Stage 9 Win",
+    "region": "ABA Stages",
+    "category": [
+      "ABA",
+      "Stage 9"
+    ],
+    "requires": "|ABA Continue Unlock| and |ABA Difficulty Reduction:5|"
+  },
+  {
+    "name": "ABA Stage 10 Win",
+    "region": "ABA Stages",
+    "category": [
+      "ABA",
+      "Stage 10"
+    ],
+    "requires": "|ABA Continue Unlock| and |ABA Difficulty Reduction:5|"
+  },
+  {
+    "name": "ABA Complete",
+    "region": "ABA Stages",
+    "category": [
+      "ABA",
+      "Complete"
+    ],
+    "place_item": [
+      "ABA Completed"
+    ],
+    "requires": "|ABA Continue Unlock| and |ABA Difficulty Reduction:5|"
+  },
+  {
+    "name": "ABA Perfect Win",
+    "region": "ABA Stages",
+    "category": [
+      "ABA",
+      "Perfect Win"
+    ],
+    "requires": "|ABA Difficulty Reduction:5|"
+  },
+  {
+    "name": "ABA Instant Kill Win",
+    "region": "ABA Stages",
+    "category": [
+      "ABA",
+      "Instant Kill"
+    ],
+    "requires": "|ABA Instant Kill|"
+  },
+  {
+    "name": "ABA Super Finish",
+    "region": "ABA Stages",
+    "category": [
+      "ABA",
+      "Super Finish"
+    ]
+  },
+  {
+    "name": "ABA Taunt and Still Win",
+    "region": "ABA Stages",
+    "category": [
+      "ABA",
+      "Taunt"
+    ]
+  },
+  {
+    "name": "ABA Win With Full Meter",
+    "region": "ABA Stages",
+    "category": [
+      "ABA",
+      "Full Meter"
+    ]
+  },
+  {
+    "name": "ABA Nice Burst",
+    "region": "ABA Stages",
+    "category": [
+      "ABA",
+      "Nice Burst"
+    ]
+  },
+  {
+    "name": "ABA No Burst Win",
+    "region": "ABA Stages",
+    "category": [
+      "ABA",
+      "No Burst"
+    ]
+  },
+  {
+    "name": "Johnny Lose",
+    "region": "Johnny Stages",
+    "category": [
+      "Johnny",
+      "Lose"
+    ],
+    "place_item": [
+      "Johnny Difficulty Reduction"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Johnny Stage 1 Win",
+    "region": "Johnny Stages",
+    "category": [
+      "Johnny",
+      "Stage 1"
+    ],
+    "requires": "|Johnny Difficulty Reduction:1|"
+  },
+  {
+    "name": "Johnny Stage 2 Win",
+    "region": "Johnny Stages",
+    "category": [
+      "Johnny",
+      "Stage 2"
+    ],
+    "requires": "|Johnny Continue Unlock| and |Johnny Difficulty Reduction:1|"
+  },
+  {
+    "name": "Johnny Stage 3 Win",
+    "region": "Johnny Stages",
+    "category": [
+      "Johnny",
+      "Stage 3"
+    ],
+    "requires": "|Johnny Continue Unlock| and |Johnny Difficulty Reduction:2|"
+  },
+  {
+    "name": "Johnny Stage 4 Win",
+    "region": "Johnny Stages",
+    "category": [
+      "Johnny",
+      "Stage 4"
+    ],
+    "requires": "|Johnny Continue Unlock| and |Johnny Difficulty Reduction:2|"
+  },
+  {
+    "name": "Johnny Stage 5 Win",
+    "region": "Johnny Stages",
+    "category": [
+      "Johnny",
+      "Stage 5"
+    ],
+    "requires": "|Johnny Continue Unlock| and |Johnny Difficulty Reduction:3|"
+  },
+  {
+    "name": "Johnny Stage 6 Win",
+    "region": "Johnny Stages",
+    "category": [
+      "Johnny",
+      "Stage 6"
+    ],
+    "requires": "|Johnny Continue Unlock| and |Johnny Difficulty Reduction:3|"
+  },
+  {
+    "name": "Johnny Stage 7 Win",
+    "region": "Johnny Stages",
+    "category": [
+      "Johnny",
+      "Stage 7"
+    ],
+    "requires": "|Johnny Continue Unlock| and |Johnny Difficulty Reduction:4|"
+  },
+  {
+    "name": "Johnny Stage 8 Win",
+    "region": "Johnny Stages",
+    "category": [
+      "Johnny",
+      "Stage 8"
+    ],
+    "requires": "|Johnny Continue Unlock| and |Johnny Difficulty Reduction:4|"
+  },
+  {
+    "name": "Johnny Stage 9 Win",
+    "region": "Johnny Stages",
+    "category": [
+      "Johnny",
+      "Stage 9"
+    ],
+    "requires": "|Johnny Continue Unlock| and |Johnny Difficulty Reduction:5|"
+  },
+  {
+    "name": "Johnny Stage 10 Win",
+    "region": "Johnny Stages",
+    "category": [
+      "Johnny",
+      "Stage 10"
+    ],
+    "requires": "|Johnny Continue Unlock| and |Johnny Difficulty Reduction:5|"
+  },
+  {
+    "name": "Johnny Complete",
+    "region": "Johnny Stages",
+    "category": [
+      "Johnny",
+      "Complete"
+    ],
+    "place_item": [
+      "Johnny Completed"
+    ],
+    "requires": "|Johnny Continue Unlock| and |Johnny Difficulty Reduction:5|"
+  },
+  {
+    "name": "Johnny Perfect Win",
+    "region": "Johnny Stages",
+    "category": [
+      "Johnny",
+      "Perfect Win"
+    ],
+    "requires": "|Johnny Difficulty Reduction:5|"
+  },
+  {
+    "name": "Johnny Instant Kill Win",
+    "region": "Johnny Stages",
+    "category": [
+      "Johnny",
+      "Instant Kill"
+    ],
+    "requires": "|Johnny Instant Kill|"
+  },
+  {
+    "name": "Johnny Super Finish",
+    "region": "Johnny Stages",
+    "category": [
+      "Johnny",
+      "Super Finish"
+    ]
+  },
+  {
+    "name": "Johnny Taunt and Still Win",
+    "region": "Johnny Stages",
+    "category": [
+      "Johnny",
+      "Taunt"
+    ]
+  },
+  {
+    "name": "Johnny Win With Full Meter",
+    "region": "Johnny Stages",
+    "category": [
+      "Johnny",
+      "Full Meter"
+    ]
+  },
+  {
+    "name": "Johnny Nice Burst",
+    "region": "Johnny Stages",
+    "category": [
+      "Johnny",
+      "Nice Burst"
+    ]
+  },
+  {
+    "name": "Johnny No Burst Win",
+    "region": "Johnny Stages",
+    "category": [
+      "Johnny",
+      "No Burst"
+    ]
+  },
+  {
+    "name": "Millia Lose",
+    "region": "Millia Stages",
+    "category": [
+      "Millia",
+      "Lose"
+    ],
+    "place_item": [
+      "Millia Difficulty Reduction"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Millia Stage 1 Win",
+    "region": "Millia Stages",
+    "category": [
+      "Millia",
+      "Stage 1"
+    ],
+    "requires": "|Millia Difficulty Reduction:1|"
+  },
+  {
+    "name": "Millia Stage 2 Win",
+    "region": "Millia Stages",
+    "category": [
+      "Millia",
+      "Stage 2"
+    ],
+    "requires": "|Millia Continue Unlock| and |Millia Difficulty Reduction:1|"
+  },
+  {
+    "name": "Millia Stage 3 Win",
+    "region": "Millia Stages",
+    "category": [
+      "Millia",
+      "Stage 3"
+    ],
+    "requires": "|Millia Continue Unlock| and |Millia Difficulty Reduction:2|"
+  },
+  {
+    "name": "Millia Stage 4 Win",
+    "region": "Millia Stages",
+    "category": [
+      "Millia",
+      "Stage 4"
+    ],
+    "requires": "|Millia Continue Unlock| and |Millia Difficulty Reduction:2|"
+  },
+  {
+    "name": "Millia Stage 5 Win",
+    "region": "Millia Stages",
+    "category": [
+      "Millia",
+      "Stage 5"
+    ],
+    "requires": "|Millia Continue Unlock| and |Millia Difficulty Reduction:3|"
+  },
+  {
+    "name": "Millia Stage 6 Win",
+    "region": "Millia Stages",
+    "category": [
+      "Millia",
+      "Stage 6"
+    ],
+    "requires": "|Millia Continue Unlock| and |Millia Difficulty Reduction:3|"
+  },
+  {
+    "name": "Millia Stage 7 Win",
+    "region": "Millia Stages",
+    "category": [
+      "Millia",
+      "Stage 7"
+    ],
+    "requires": "|Millia Continue Unlock| and |Millia Difficulty Reduction:4|"
+  },
+  {
+    "name": "Millia Stage 8 Win",
+    "region": "Millia Stages",
+    "category": [
+      "Millia",
+      "Stage 8"
+    ],
+    "requires": "|Millia Continue Unlock| and |Millia Difficulty Reduction:4|"
+  },
+  {
+    "name": "Millia Stage 9 Win",
+    "region": "Millia Stages",
+    "category": [
+      "Millia",
+      "Stage 9"
+    ],
+    "requires": "|Millia Continue Unlock| and |Millia Difficulty Reduction:5|"
+  },
+  {
+    "name": "Millia Stage 10 Win",
+    "region": "Millia Stages",
+    "category": [
+      "Millia",
+      "Stage 10"
+    ],
+    "requires": "|Millia Continue Unlock| and |Millia Difficulty Reduction:5|"
+  },
+  {
+    "name": "Millia Complete",
+    "region": "Millia Stages",
+    "category": [
+      "Millia",
+      "Complete"
+    ],
+    "place_item": [
+      "Millia Completed"
+    ],
+    "requires": "|Millia Continue Unlock| and |Millia Difficulty Reduction:5|"
+  },
+  {
+    "name": "Millia Perfect Win",
+    "region": "Millia Stages",
+    "category": [
+      "Millia",
+      "Perfect Win"
+    ],
+    "requires": "|Millia Difficulty Reduction:5|"
+  },
+  {
+    "name": "Millia Instant Kill Win",
+    "region": "Millia Stages",
+    "category": [
+      "Millia",
+      "Instant Kill"
+    ],
+    "requires": "|Millia Instant Kill|"
+  },
+  {
+    "name": "Millia Super Finish",
+    "region": "Millia Stages",
+    "category": [
+      "Millia",
+      "Super Finish"
+    ]
+  },
+  {
+    "name": "Millia Taunt and Still Win",
+    "region": "Millia Stages",
+    "category": [
+      "Millia",
+      "Taunt"
+    ]
+  },
+  {
+    "name": "Millia Win With Full Meter",
+    "region": "Millia Stages",
+    "category": [
+      "Millia",
+      "Full Meter"
+    ]
+  },
+  {
+    "name": "Millia Nice Burst",
+    "region": "Millia Stages",
+    "category": [
+      "Millia",
+      "Nice Burst"
+    ]
+  },
+  {
+    "name": "Millia No Burst Win",
+    "region": "Millia Stages",
+    "category": [
+      "Millia",
+      "No Burst"
+    ]
+  },
+  {
+    "name": "Sol Lose",
+    "region": "Sol Stages",
+    "category": [
+      "Sol",
+      "Lose"
+    ],
+    "place_item": [
+      "Sol Difficulty Reduction"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Sol Stage 1 Win",
+    "region": "Sol Stages",
+    "category": [
+      "Sol",
+      "Stage 1"
+    ],
+    "requires": "|Sol Difficulty Reduction:1|"
+  },
+  {
+    "name": "Sol Stage 2 Win",
+    "region": "Sol Stages",
+    "category": [
+      "Sol",
+      "Stage 2"
+    ],
+    "requires": "|Sol Continue Unlock| and |Sol Difficulty Reduction:1|"
+  },
+  {
+    "name": "Sol Stage 3 Win",
+    "region": "Sol Stages",
+    "category": [
+      "Sol",
+      "Stage 3"
+    ],
+    "requires": "|Sol Continue Unlock| and |Sol Difficulty Reduction:2|"
+  },
+  {
+    "name": "Sol Stage 4 Win",
+    "region": "Sol Stages",
+    "category": [
+      "Sol",
+      "Stage 4"
+    ],
+    "requires": "|Sol Continue Unlock| and |Sol Difficulty Reduction:2|"
+  },
+  {
+    "name": "Sol Stage 5 Win",
+    "region": "Sol Stages",
+    "category": [
+      "Sol",
+      "Stage 5"
+    ],
+    "requires": "|Sol Continue Unlock| and |Sol Difficulty Reduction:3|"
+  },
+  {
+    "name": "Sol Stage 6 Win",
+    "region": "Sol Stages",
+    "category": [
+      "Sol",
+      "Stage 6"
+    ],
+    "requires": "|Sol Continue Unlock| and |Sol Difficulty Reduction:3|"
+  },
+  {
+    "name": "Sol Stage 7 Win",
+    "region": "Sol Stages",
+    "category": [
+      "Sol",
+      "Stage 7"
+    ],
+    "requires": "|Sol Continue Unlock| and |Sol Difficulty Reduction:4|"
+  },
+  {
+    "name": "Sol Stage 8 Win",
+    "region": "Sol Stages",
+    "category": [
+      "Sol",
+      "Stage 8"
+    ],
+    "requires": "|Sol Continue Unlock| and |Sol Difficulty Reduction:4|"
+  },
+  {
+    "name": "Sol Stage 9 Win",
+    "region": "Sol Stages",
+    "category": [
+      "Sol",
+      "Stage 9"
+    ],
+    "requires": "|Sol Continue Unlock| and |Sol Difficulty Reduction:5|"
+  },
+  {
+    "name": "Sol Stage 10 Win",
+    "region": "Sol Stages",
+    "category": [
+      "Sol",
+      "Stage 10"
+    ],
+    "requires": "|Sol Continue Unlock| and |Sol Difficulty Reduction:5|"
+  },
+  {
+    "name": "Sol Complete",
+    "region": "Sol Stages",
+    "category": [
+      "Sol",
+      "Complete"
+    ],
+    "place_item": [
+      "Sol Completed"
+    ],
+    "requires": "|Sol Continue Unlock| and |Sol Difficulty Reduction:5|"
+  },
+  {
+    "name": "Sol Perfect Win",
+    "region": "Sol Stages",
+    "category": [
+      "Sol",
+      "Perfect Win"
+    ],
+    "requires": "|Sol Difficulty Reduction:5|"
+  },
+  {
+    "name": "Sol Instant Kill Win",
+    "region": "Sol Stages",
+    "category": [
+      "Sol",
+      "Instant Kill"
+    ],
+    "requires": "|Sol Instant Kill|"
+  },
+  {
+    "name": "Sol Super Finish",
+    "region": "Sol Stages",
+    "category": [
+      "Sol",
+      "Super Finish"
+    ]
+  },
+  {
+    "name": "Sol Taunt and Still Win",
+    "region": "Sol Stages",
+    "category": [
+      "Sol",
+      "Taunt"
+    ]
+  },
+  {
+    "name": "Sol Win With Full Meter",
+    "region": "Sol Stages",
+    "category": [
+      "Sol",
+      "Full Meter"
+    ]
+  },
+  {
+    "name": "Sol Nice Burst",
+    "region": "Sol Stages",
+    "category": [
+      "Sol",
+      "Nice Burst"
+    ]
+  },
+  {
+    "name": "Sol No Burst Win",
+    "region": "Sol Stages",
+    "category": [
+      "Sol",
+      "No Burst"
+    ]
+  },
+  {
+    "name": "Order-Sol Lose",
+    "region": "Order-Sol Stages",
+    "category": [
+      "Order-Sol",
+      "Lose"
+    ],
+    "place_item": [
+      "Order-Sol Difficulty Reduction"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Order-Sol Stage 1 Win",
+    "region": "Order-Sol Stages",
+    "category": [
+      "Order-Sol",
+      "Stage 1"
+    ],
+    "requires": "|Order-Sol Difficulty Reduction:1|"
+  },
+  {
+    "name": "Order-Sol Stage 2 Win",
+    "region": "Order-Sol Stages",
+    "category": [
+      "Order-Sol",
+      "Stage 2"
+    ],
+    "requires": "|Order-Sol Continue Unlock| and |Order-Sol Difficulty Reduction:1|"
+  },
+  {
+    "name": "Order-Sol Stage 3 Win",
+    "region": "Order-Sol Stages",
+    "category": [
+      "Order-Sol",
+      "Stage 3"
+    ],
+    "requires": "|Order-Sol Continue Unlock| and |Order-Sol Difficulty Reduction:2|"
+  },
+  {
+    "name": "Order-Sol Stage 4 Win",
+    "region": "Order-Sol Stages",
+    "category": [
+      "Order-Sol",
+      "Stage 4"
+    ],
+    "requires": "|Order-Sol Continue Unlock| and |Order-Sol Difficulty Reduction:2|"
+  },
+  {
+    "name": "Order-Sol Stage 5 Win",
+    "region": "Order-Sol Stages",
+    "category": [
+      "Order-Sol",
+      "Stage 5"
+    ],
+    "requires": "|Order-Sol Continue Unlock| and |Order-Sol Difficulty Reduction:3|"
+  },
+  {
+    "name": "Order-Sol Stage 6 Win",
+    "region": "Order-Sol Stages",
+    "category": [
+      "Order-Sol",
+      "Stage 6"
+    ],
+    "requires": "|Order-Sol Continue Unlock| and |Order-Sol Difficulty Reduction:3|"
+  },
+  {
+    "name": "Order-Sol Stage 7 Win",
+    "region": "Order-Sol Stages",
+    "category": [
+      "Order-Sol",
+      "Stage 7"
+    ],
+    "requires": "|Order-Sol Continue Unlock| and |Order-Sol Difficulty Reduction:4|"
+  },
+  {
+    "name": "Order-Sol Stage 8 Win",
+    "region": "Order-Sol Stages",
+    "category": [
+      "Order-Sol",
+      "Stage 8"
+    ],
+    "requires": "|Order-Sol Continue Unlock| and |Order-Sol Difficulty Reduction:4|"
+  },
+  {
+    "name": "Order-Sol Stage 9 Win",
+    "region": "Order-Sol Stages",
+    "category": [
+      "Order-Sol",
+      "Stage 9"
+    ],
+    "requires": "|Order-Sol Continue Unlock| and |Order-Sol Difficulty Reduction:5|"
+  },
+  {
+    "name": "Order-Sol Stage 10 Win",
+    "region": "Order-Sol Stages",
+    "category": [
+      "Order-Sol",
+      "Stage 10"
+    ],
+    "requires": "|Order-Sol Continue Unlock| and |Order-Sol Difficulty Reduction:5|"
+  },
+  {
+    "name": "Order-Sol Complete",
+    "region": "Order-Sol Stages",
+    "category": [
+      "Order-Sol",
+      "Complete"
+    ],
+    "place_item": [
+      "Order-Sol Completed"
+    ],
+    "requires": "|Order-Sol Continue Unlock| and |Order-Sol Difficulty Reduction:5|"
+  },
+  {
+    "name": "Order-Sol Perfect Win",
+    "region": "Order-Sol Stages",
+    "category": [
+      "Order-Sol",
+      "Perfect Win"
+    ],
+    "requires": "|Order-Sol Difficulty Reduction:5|"
+  },
+  {
+    "name": "Order-Sol Instant Kill Win",
+    "region": "Order-Sol Stages",
+    "category": [
+      "Order-Sol",
+      "Instant Kill"
+    ],
+    "requires": "|Order-Sol Instant Kill| and |Order-Sol EX Mode|"
+  },
+  {
+    "name": "Order-Sol Super Finish",
+    "region": "Order-Sol Stages",
+    "category": [
+      "Order-Sol",
+      "Super Finish"
+    ]
+  },
+  {
+    "name": "Order-Sol Taunt and Still Win",
+    "region": "Order-Sol Stages",
+    "category": [
+      "Order-Sol",
+      "Taunt"
+    ]
+  },
+  {
+    "name": "Order-Sol Win With Full Meter",
+    "region": "Order-Sol Stages",
+    "category": [
+      "Order-Sol",
+      "Full Meter"
+    ]
+  },
+  {
+    "name": "Order-Sol Nice Burst",
+    "region": "Order-Sol Stages",
+    "category": [
+      "Order-Sol",
+      "Nice Burst"
+    ]
+  },
+  {
+    "name": "Order-Sol No Burst Win",
+    "region": "Order-Sol Stages",
+    "category": [
+      "Order-Sol",
+      "No Burst"
+    ]
+  },
+  {
+    "name": "Ky Lose",
+    "region": "Ky Stages",
+    "category": [
+      "Ky",
+      "Lose"
+    ],
+    "place_item": [
+      "Ky Difficulty Reduction"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ky Stage 1 Win",
+    "region": "Ky Stages",
+    "category": [
+      "Ky",
+      "Stage 1"
+    ],
+    "requires": "|Ky Difficulty Reduction:1|"
+  },
+  {
+    "name": "Ky Stage 2 Win",
+    "region": "Ky Stages",
+    "category": [
+      "Ky",
+      "Stage 2"
+    ],
+    "requires": "|Ky Continue Unlock| and |Ky Difficulty Reduction:1|"
+  },
+  {
+    "name": "Ky Stage 3 Win",
+    "region": "Ky Stages",
+    "category": [
+      "Ky",
+      "Stage 3"
+    ],
+    "requires": "|Ky Continue Unlock| and |Ky Difficulty Reduction:2|"
+  },
+  {
+    "name": "Ky Stage 4 Win",
+    "region": "Ky Stages",
+    "category": [
+      "Ky",
+      "Stage 4"
+    ],
+    "requires": "|Ky Continue Unlock| and |Ky Difficulty Reduction:2|"
+  },
+  {
+    "name": "Ky Stage 5 Win",
+    "region": "Ky Stages",
+    "category": [
+      "Ky",
+      "Stage 5"
+    ],
+    "requires": "|Ky Continue Unlock| and |Ky Difficulty Reduction:3|"
+  },
+  {
+    "name": "Ky Stage 6 Win",
+    "region": "Ky Stages",
+    "category": [
+      "Ky",
+      "Stage 6"
+    ],
+    "requires": "|Ky Continue Unlock| and |Ky Difficulty Reduction:3|"
+  },
+  {
+    "name": "Ky Stage 7 Win",
+    "region": "Ky Stages",
+    "category": [
+      "Ky",
+      "Stage 7"
+    ],
+    "requires": "|Ky Continue Unlock| and |Ky Difficulty Reduction:4|"
+  },
+  {
+    "name": "Ky Stage 8 Win",
+    "region": "Ky Stages",
+    "category": [
+      "Ky",
+      "Stage 8"
+    ],
+    "requires": "|Ky Continue Unlock| and |Ky Difficulty Reduction:4|"
+  },
+  {
+    "name": "Ky Stage 9 Win",
+    "region": "Ky Stages",
+    "category": [
+      "Ky",
+      "Stage 9"
+    ],
+    "requires": "|Ky Continue Unlock| and |Ky Difficulty Reduction:5|"
+  },
+  {
+    "name": "Ky Stage 10 Win",
+    "region": "Ky Stages",
+    "category": [
+      "Ky",
+      "Stage 10"
+    ],
+    "requires": "|Ky Continue Unlock| and |Ky Difficulty Reduction:5|"
+  },
+  {
+    "name": "Ky Complete",
+    "region": "Ky Stages",
+    "category": [
+      "Ky",
+      "Complete"
+    ],
+    "place_item": [
+      "Ky Completed"
+    ],
+    "requires": "|Ky Continue Unlock| and |Ky Difficulty Reduction:5|"
+  },
+  {
+    "name": "Ky Perfect Win",
+    "region": "Ky Stages",
+    "category": [
+      "Ky",
+      "Perfect Win"
+    ],
+    "requires": "|Ky Difficulty Reduction:5|"
+  },
+  {
+    "name": "Ky Instant Kill Win",
+    "region": "Ky Stages",
+    "category": [
+      "Ky",
+      "Instant Kill"
+    ],
+    "requires": "|Ky Instant Kill|"
+  },
+  {
+    "name": "Ky Super Finish",
+    "region": "Ky Stages",
+    "category": [
+      "Ky",
+      "Super Finish"
+    ]
+  },
+  {
+    "name": "Ky Taunt and Still Win",
+    "region": "Ky Stages",
+    "category": [
+      "Ky",
+      "Taunt"
+    ]
+  },
+  {
+    "name": "Ky Win With Full Meter",
+    "region": "Ky Stages",
+    "category": [
+      "Ky",
+      "Full Meter"
+    ]
+  },
+  {
+    "name": "Ky Nice Burst",
+    "region": "Ky Stages",
+    "category": [
+      "Ky",
+      "Nice Burst"
+    ]
+  },
+  {
+    "name": "Ky No Burst Win",
+    "region": "Ky Stages",
+    "category": [
+      "Ky",
+      "No Burst"
+    ]
+  },
+  {
+    "name": "Robo-Ky Lose",
+    "region": "Robo-Ky Stages",
+    "category": [
+      "Robo-Ky",
+      "Lose"
+    ],
+    "place_item": [
+      "Robo-Ky Difficulty Reduction"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Robo-Ky Stage 1 Win",
+    "region": "Robo-Ky Stages",
+    "category": [
+      "Robo-Ky",
+      "Stage 1"
+    ],
+    "requires": "|Robo-Ky Difficulty Reduction:1|"
+  },
+  {
+    "name": "Robo-Ky Stage 2 Win",
+    "region": "Robo-Ky Stages",
+    "category": [
+      "Robo-Ky",
+      "Stage 2"
+    ],
+    "requires": "|Robo-Ky Continue Unlock| and |Robo-Ky Difficulty Reduction:1|"
+  },
+  {
+    "name": "Robo-Ky Stage 3 Win",
+    "region": "Robo-Ky Stages",
+    "category": [
+      "Robo-Ky",
+      "Stage 3"
+    ],
+    "requires": "|Robo-Ky Continue Unlock| and |Robo-Ky Difficulty Reduction:2|"
+  },
+  {
+    "name": "Robo-Ky Stage 4 Win",
+    "region": "Robo-Ky Stages",
+    "category": [
+      "Robo-Ky",
+      "Stage 4"
+    ],
+    "requires": "|Robo-Ky Continue Unlock| and |Robo-Ky Difficulty Reduction:2|"
+  },
+  {
+    "name": "Robo-Ky Stage 5 Win",
+    "region": "Robo-Ky Stages",
+    "category": [
+      "Robo-Ky",
+      "Stage 5"
+    ],
+    "requires": "|Robo-Ky Continue Unlock| and |Robo-Ky Difficulty Reduction:3|"
+  },
+  {
+    "name": "Robo-Ky Stage 6 Win",
+    "region": "Robo-Ky Stages",
+    "category": [
+      "Robo-Ky",
+      "Stage 6"
+    ],
+    "requires": "|Robo-Ky Continue Unlock| and |Robo-Ky Difficulty Reduction:3|"
+  },
+  {
+    "name": "Robo-Ky Stage 7 Win",
+    "region": "Robo-Ky Stages",
+    "category": [
+      "Robo-Ky",
+      "Stage 7"
+    ],
+    "requires": "|Robo-Ky Continue Unlock| and |Robo-Ky Difficulty Reduction:4|"
+  },
+  {
+    "name": "Robo-Ky Stage 8 Win",
+    "region": "Robo-Ky Stages",
+    "category": [
+      "Robo-Ky",
+      "Stage 8"
+    ],
+    "requires": "|Robo-Ky Continue Unlock| and |Robo-Ky Difficulty Reduction:4|"
+  },
+  {
+    "name": "Robo-Ky Stage 9 Win",
+    "region": "Robo-Ky Stages",
+    "category": [
+      "Robo-Ky",
+      "Stage 9"
+    ],
+    "requires": "|Robo-Ky Continue Unlock| and |Robo-Ky Difficulty Reduction:5|"
+  },
+  {
+    "name": "Robo-Ky Stage 10 Win",
+    "region": "Robo-Ky Stages",
+    "category": [
+      "Robo-Ky",
+      "Stage 10"
+    ],
+    "requires": "|Robo-Ky Continue Unlock| and |Robo-Ky Difficulty Reduction:5|"
+  },
+  {
+    "name": "Robo-Ky Complete",
+    "region": "Robo-Ky Stages",
+    "category": [
+      "Robo-Ky",
+      "Complete"
+    ],
+    "place_item": [
+      "Robo-Ky Completed"
+    ],
+    "requires": "|Robo-Ky Continue Unlock| and |Robo-Ky Difficulty Reduction:5|"
+  },
+  {
+    "name": "Robo-Ky Perfect Win",
+    "region": "Robo-Ky Stages",
+    "category": [
+      "Robo-Ky",
+      "Perfect Win"
+    ],
+    "requires": "|Robo-Ky Difficulty Reduction:5|"
+  },
+  {
+    "name": "Robo-Ky Instant Kill Win",
+    "region": "Robo-Ky Stages",
+    "category": [
+      "Robo-Ky",
+      "Instant Kill"
+    ],
+    "requires": "|Robo-Ky Instant Kill|"
+  },
+  {
+    "name": "Robo-Ky Super Finish",
+    "region": "Robo-Ky Stages",
+    "category": [
+      "Robo-Ky",
+      "Super Finish"
+    ]
+  },
+  {
+    "name": "Robo-Ky Taunt and Still Win",
+    "region": "Robo-Ky Stages",
+    "category": [
+      "Robo-Ky",
+      "Taunt"
+    ]
+  },
+  {
+    "name": "Robo-Ky Win With Full Meter",
+    "region": "Robo-Ky Stages",
+    "category": [
+      "Robo-Ky",
+      "Full Meter"
+    ]
+  },
+  {
+    "name": "Robo-Ky Nice Burst",
+    "region": "Robo-Ky Stages",
+    "category": [
+      "Robo-Ky",
+      "Nice Burst"
+    ]
+  },
+  {
+    "name": "Robo-Ky No Burst Win",
+    "region": "Robo-Ky Stages",
+    "category": [
+      "Robo-Ky",
+      "No Burst"
+    ]
+  },
+  {
+    "name": "May Lose",
+    "region": "May Stages",
+    "category": [
+      "May",
+      "Lose"
+    ],
+    "place_item": [
+      "May Difficulty Reduction"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "May Stage 1 Win",
+    "region": "May Stages",
+    "category": [
+      "May",
+      "Stage 1"
+    ],
+    "requires": "|May Difficulty Reduction:1|"
+  },
+  {
+    "name": "May Stage 2 Win",
+    "region": "May Stages",
+    "category": [
+      "May",
+      "Stage 2"
+    ],
+    "requires": "|May Continue Unlock| and |May Difficulty Reduction:1|"
+  },
+  {
+    "name": "May Stage 3 Win",
+    "region": "May Stages",
+    "category": [
+      "May",
+      "Stage 3"
+    ],
+    "requires": "|May Continue Unlock| and |May Difficulty Reduction:2|"
+  },
+  {
+    "name": "May Stage 4 Win",
+    "region": "May Stages",
+    "category": [
+      "May",
+      "Stage 4"
+    ],
+    "requires": "|May Continue Unlock| and |May Difficulty Reduction:2|"
+  },
+  {
+    "name": "May Stage 5 Win",
+    "region": "May Stages",
+    "category": [
+      "May",
+      "Stage 5"
+    ],
+    "requires": "|May Continue Unlock| and |May Difficulty Reduction:3|"
+  },
+  {
+    "name": "May Stage 6 Win",
+    "region": "May Stages",
+    "category": [
+      "May",
+      "Stage 6"
+    ],
+    "requires": "|May Continue Unlock| and |May Difficulty Reduction:3|"
+  },
+  {
+    "name": "May Stage 7 Win",
+    "region": "May Stages",
+    "category": [
+      "May",
+      "Stage 7"
+    ],
+    "requires": "|May Continue Unlock| and |May Difficulty Reduction:4|"
+  },
+  {
+    "name": "May Stage 8 Win",
+    "region": "May Stages",
+    "category": [
+      "May",
+      "Stage 8"
+    ],
+    "requires": "|May Continue Unlock| and |May Difficulty Reduction:4|"
+  },
+  {
+    "name": "May Stage 9 Win",
+    "region": "May Stages",
+    "category": [
+      "May",
+      "Stage 9"
+    ],
+    "requires": "|May Continue Unlock| and |May Difficulty Reduction:5|"
+  },
+  {
+    "name": "May Stage 10 Win",
+    "region": "May Stages",
+    "category": [
+      "May",
+      "Stage 10"
+    ],
+    "requires": "|May Continue Unlock| and |May Difficulty Reduction:5|"
+  },
+  {
+    "name": "May Complete",
+    "region": "May Stages",
+    "category": [
+      "May",
+      "Complete"
+    ],
+    "place_item": [
+      "May Completed"
+    ],
+    "requires": "|May Continue Unlock| and |May Difficulty Reduction:5|"
+  },
+  {
+    "name": "May Perfect Win",
+    "region": "May Stages",
+    "category": [
+      "May",
+      "Perfect Win"
+    ],
+    "requires": "|May Difficulty Reduction:5|"
+  },
+  {
+    "name": "May Instant Kill Win",
+    "region": "May Stages",
+    "category": [
+      "May",
+      "Instant Kill"
+    ],
+    "requires": "|May Instant Kill|"
+  },
+  {
+    "name": "May Super Finish",
+    "region": "May Stages",
+    "category": [
+      "May",
+      "Super Finish"
+    ]
+  },
+  {
+    "name": "May Taunt and Still Win",
+    "region": "May Stages",
+    "category": [
+      "May",
+      "Taunt"
+    ]
+  },
+  {
+    "name": "May Win With Full Meter",
+    "region": "May Stages",
+    "category": [
+      "May",
+      "Full Meter"
+    ]
+  },
+  {
+    "name": "May Nice Burst",
+    "region": "May Stages",
+    "category": [
+      "May",
+      "Nice Burst"
+    ]
+  },
+  {
+    "name": "May No Burst Win",
+    "region": "May Stages",
+    "category": [
+      "May",
+      "No Burst"
+    ]
+  },
+  {
+    "name": "Eddie Lose",
+    "region": "Eddie Stages",
+    "category": [
+      "Eddie",
+      "Lose"
+    ],
+    "place_item": [
+      "Eddie Difficulty Reduction"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Eddie Stage 1 Win",
+    "region": "Eddie Stages",
+    "category": [
+      "Eddie",
+      "Stage 1"
+    ],
+    "requires": "|Eddie Difficulty Reduction:1|"
+  },
+  {
+    "name": "Eddie Stage 2 Win",
+    "region": "Eddie Stages",
+    "category": [
+      "Eddie",
+      "Stage 2"
+    ],
+    "requires": "|Eddie Continue Unlock| and |Eddie Difficulty Reduction:1|"
+  },
+  {
+    "name": "Eddie Stage 3 Win",
+    "region": "Eddie Stages",
+    "category": [
+      "Eddie",
+      "Stage 3"
+    ],
+    "requires": "|Eddie Continue Unlock| and |Eddie Difficulty Reduction:2|"
+  },
+  {
+    "name": "Eddie Stage 4 Win",
+    "region": "Eddie Stages",
+    "category": [
+      "Eddie",
+      "Stage 4"
+    ],
+    "requires": "|Eddie Continue Unlock| and |Eddie Difficulty Reduction:2|"
+  },
+  {
+    "name": "Eddie Stage 5 Win",
+    "region": "Eddie Stages",
+    "category": [
+      "Eddie",
+      "Stage 5"
+    ],
+    "requires": "|Eddie Continue Unlock| and |Eddie Difficulty Reduction:3|"
+  },
+  {
+    "name": "Eddie Stage 6 Win",
+    "region": "Eddie Stages",
+    "category": [
+      "Eddie",
+      "Stage 6"
+    ],
+    "requires": "|Eddie Continue Unlock| and |Eddie Difficulty Reduction:3|"
+  },
+  {
+    "name": "Eddie Stage 7 Win",
+    "region": "Eddie Stages",
+    "category": [
+      "Eddie",
+      "Stage 7"
+    ],
+    "requires": "|Eddie Continue Unlock| and |Eddie Difficulty Reduction:4|"
+  },
+  {
+    "name": "Eddie Stage 8 Win",
+    "region": "Eddie Stages",
+    "category": [
+      "Eddie",
+      "Stage 8"
+    ],
+    "requires": "|Eddie Continue Unlock| and |Eddie Difficulty Reduction:4|"
+  },
+  {
+    "name": "Eddie Stage 9 Win",
+    "region": "Eddie Stages",
+    "category": [
+      "Eddie",
+      "Stage 9"
+    ],
+    "requires": "|Eddie Continue Unlock| and |Eddie Difficulty Reduction:5|"
+  },
+  {
+    "name": "Eddie Stage 10 Win",
+    "region": "Eddie Stages",
+    "category": [
+      "Eddie",
+      "Stage 10"
+    ],
+    "requires": "|Eddie Continue Unlock| and |Eddie Difficulty Reduction:5|"
+  },
+  {
+    "name": "Eddie Complete",
+    "region": "Eddie Stages",
+    "category": [
+      "Eddie",
+      "Complete"
+    ],
+    "place_item": [
+      "Eddie Completed"
+    ],
+    "requires": "|Eddie Continue Unlock| and |Eddie Difficulty Reduction:5|"
+  },
+  {
+    "name": "Eddie Perfect Win",
+    "region": "Eddie Stages",
+    "category": [
+      "Eddie",
+      "Perfect Win"
+    ],
+    "requires": "|Eddie Difficulty Reduction:5|"
+  },
+  {
+    "name": "Eddie Instant Kill Win",
+    "region": "Eddie Stages",
+    "category": [
+      "Eddie",
+      "Instant Kill"
+    ],
+    "requires": "|Eddie Instant Kill|"
+  },
+  {
+    "name": "Eddie Super Finish",
+    "region": "Eddie Stages",
+    "category": [
+      "Eddie",
+      "Super Finish"
+    ]
+  },
+  {
+    "name": "Eddie Taunt and Still Win",
+    "region": "Eddie Stages",
+    "category": [
+      "Eddie",
+      "Taunt"
+    ]
+  },
+  {
+    "name": "Eddie Win With Full Meter",
+    "region": "Eddie Stages",
+    "category": [
+      "Eddie",
+      "Full Meter"
+    ]
+  },
+  {
+    "name": "Eddie Nice Burst",
+    "region": "Eddie Stages",
+    "category": [
+      "Eddie",
+      "Nice Burst"
+    ]
+  },
+  {
+    "name": "Eddie No Burst Win",
+    "region": "Eddie Stages",
+    "category": [
+      "Eddie",
+      "No Burst"
+    ]
+  },
+  {
+    "name": "Testament Lose",
+    "region": "Testament Stages",
+    "category": [
+      "Testament",
+      "Lose"
+    ],
+    "place_item": [
+      "Testament Difficulty Reduction"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Testament Stage 1 Win",
+    "region": "Testament Stages",
+    "category": [
+      "Testament",
+      "Stage 1"
+    ],
+    "requires": "|Testament Difficulty Reduction:1|"
+  },
+  {
+    "name": "Testament Stage 2 Win",
+    "region": "Testament Stages",
+    "category": [
+      "Testament",
+      "Stage 2"
+    ],
+    "requires": "|Testament Continue Unlock| and |Testament Difficulty Reduction:1|"
+  },
+  {
+    "name": "Testament Stage 3 Win",
+    "region": "Testament Stages",
+    "category": [
+      "Testament",
+      "Stage 3"
+    ],
+    "requires": "|Testament Continue Unlock| and |Testament Difficulty Reduction:2|"
+  },
+  {
+    "name": "Testament Stage 4 Win",
+    "region": "Testament Stages",
+    "category": [
+      "Testament",
+      "Stage 4"
+    ],
+    "requires": "|Testament Continue Unlock| and |Testament Difficulty Reduction:2|"
+  },
+  {
+    "name": "Testament Stage 5 Win",
+    "region": "Testament Stages",
+    "category": [
+      "Testament",
+      "Stage 5"
+    ],
+    "requires": "|Testament Continue Unlock| and |Testament Difficulty Reduction:3|"
+  },
+  {
+    "name": "Testament Stage 6 Win",
+    "region": "Testament Stages",
+    "category": [
+      "Testament",
+      "Stage 6"
+    ],
+    "requires": "|Testament Continue Unlock| and |Testament Difficulty Reduction:3|"
+  },
+  {
+    "name": "Testament Stage 7 Win",
+    "region": "Testament Stages",
+    "category": [
+      "Testament",
+      "Stage 7"
+    ],
+    "requires": "|Testament Continue Unlock| and |Testament Difficulty Reduction:4|"
+  },
+  {
+    "name": "Testament Stage 8 Win",
+    "region": "Testament Stages",
+    "category": [
+      "Testament",
+      "Stage 8"
+    ],
+    "requires": "|Testament Continue Unlock| and |Testament Difficulty Reduction:4|"
+  },
+  {
+    "name": "Testament Stage 9 Win",
+    "region": "Testament Stages",
+    "category": [
+      "Testament",
+      "Stage 9"
+    ],
+    "requires": "|Testament Continue Unlock| and |Testament Difficulty Reduction:5|"
+  },
+  {
+    "name": "Testament Stage 10 Win",
+    "region": "Testament Stages",
+    "category": [
+      "Testament",
+      "Stage 10"
+    ],
+    "requires": "|Testament Continue Unlock| and |Testament Difficulty Reduction:5|"
+  },
+  {
+    "name": "Testament Complete",
+    "region": "Testament Stages",
+    "category": [
+      "Testament",
+      "Complete"
+    ],
+    "place_item": [
+      "Testament Completed"
+    ],
+    "requires": "|Testament Continue Unlock| and |Testament Difficulty Reduction:5|"
+  },
+  {
+    "name": "Testament Perfect Win",
+    "region": "Testament Stages",
+    "category": [
+      "Testament",
+      "Perfect Win"
+    ],
+    "requires": "|Testament Difficulty Reduction:5|"
+  },
+  {
+    "name": "Testament Instant Kill Win",
+    "region": "Testament Stages",
+    "category": [
+      "Testament",
+      "Instant Kill"
+    ],
+    "requires": "|Testament Instant Kill|"
+  },
+  {
+    "name": "Testament Super Finish",
+    "region": "Testament Stages",
+    "category": [
+      "Testament",
+      "Super Finish"
+    ]
+  },
+  {
+    "name": "Testament Taunt and Still Win",
+    "region": "Testament Stages",
+    "category": [
+      "Testament",
+      "Taunt"
+    ]
+  },
+  {
+    "name": "Testament Win With Full Meter",
+    "region": "Testament Stages",
+    "category": [
+      "Testament",
+      "Full Meter"
+    ]
+  },
+  {
+    "name": "Testament Nice Burst",
+    "region": "Testament Stages",
+    "category": [
+      "Testament",
+      "Nice Burst"
+    ]
+  },
+  {
+    "name": "Testament No Burst Win",
+    "region": "Testament Stages",
+    "category": [
+      "Testament",
+      "No Burst"
+    ]
+  },
+  {
+    "name": "Baiken Lose",
+    "region": "Baiken Stages",
+    "category": [
+      "Baiken",
+      "Lose"
+    ],
+    "place_item": [
+      "Baiken Difficulty Reduction"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Baiken Stage 1 Win",
+    "region": "Baiken Stages",
+    "category": [
+      "Baiken",
+      "Stage 1"
+    ],
+    "requires": "|Baiken Difficulty Reduction:1|"
+  },
+  {
+    "name": "Baiken Stage 2 Win",
+    "region": "Baiken Stages",
+    "category": [
+      "Baiken",
+      "Stage 2"
+    ],
+    "requires": "|Baiken Continue Unlock| and |Baiken Difficulty Reduction:1|"
+  },
+  {
+    "name": "Baiken Stage 3 Win",
+    "region": "Baiken Stages",
+    "category": [
+      "Baiken",
+      "Stage 3"
+    ],
+    "requires": "|Baiken Continue Unlock| and |Baiken Difficulty Reduction:2|"
+  },
+  {
+    "name": "Baiken Stage 4 Win",
+    "region": "Baiken Stages",
+    "category": [
+      "Baiken",
+      "Stage 4"
+    ],
+    "requires": "|Baiken Continue Unlock| and |Baiken Difficulty Reduction:2|"
+  },
+  {
+    "name": "Baiken Stage 5 Win",
+    "region": "Baiken Stages",
+    "category": [
+      "Baiken",
+      "Stage 5"
+    ],
+    "requires": "|Baiken Continue Unlock| and |Baiken Difficulty Reduction:3|"
+  },
+  {
+    "name": "Baiken Stage 6 Win",
+    "region": "Baiken Stages",
+    "category": [
+      "Baiken",
+      "Stage 6"
+    ],
+    "requires": "|Baiken Continue Unlock| and |Baiken Difficulty Reduction:3|"
+  },
+  {
+    "name": "Baiken Stage 7 Win",
+    "region": "Baiken Stages",
+    "category": [
+      "Baiken",
+      "Stage 7"
+    ],
+    "requires": "|Baiken Continue Unlock| and |Baiken Difficulty Reduction:4|"
+  },
+  {
+    "name": "Baiken Stage 8 Win",
+    "region": "Baiken Stages",
+    "category": [
+      "Baiken",
+      "Stage 8"
+    ],
+    "requires": "|Baiken Continue Unlock| and |Baiken Difficulty Reduction:4|"
+  },
+  {
+    "name": "Baiken Stage 9 Win",
+    "region": "Baiken Stages",
+    "category": [
+      "Baiken",
+      "Stage 9"
+    ],
+    "requires": "|Baiken Continue Unlock| and |Baiken Difficulty Reduction:5|"
+  },
+  {
+    "name": "Baiken Stage 10 Win",
+    "region": "Baiken Stages",
+    "category": [
+      "Baiken",
+      "Stage 10"
+    ],
+    "requires": "|Baiken Continue Unlock| and |Baiken Difficulty Reduction:5|"
+  },
+  {
+    "name": "Baiken Complete",
+    "region": "Baiken Stages",
+    "category": [
+      "Baiken",
+      "Complete"
+    ],
+    "place_item": [
+      "Baiken Completed"
+    ],
+    "requires": "|Baiken Continue Unlock| and |Baiken Difficulty Reduction:5|"
+  },
+  {
+    "name": "Baiken Perfect Win",
+    "region": "Baiken Stages",
+    "category": [
+      "Baiken",
+      "Perfect Win"
+    ],
+    "requires": "|Baiken Difficulty Reduction:5|"
+  },
+  {
+    "name": "Baiken Instant Kill Win",
+    "region": "Baiken Stages",
+    "category": [
+      "Baiken",
+      "Instant Kill"
+    ],
+    "requires": "|Baiken Instant Kill|"
+  },
+  {
+    "name": "Baiken Super Finish",
+    "region": "Baiken Stages",
+    "category": [
+      "Baiken",
+      "Super Finish"
+    ]
+  },
+  {
+    "name": "Baiken Taunt and Still Win",
+    "region": "Baiken Stages",
+    "category": [
+      "Baiken",
+      "Taunt"
+    ]
+  },
+  {
+    "name": "Baiken Win With Full Meter",
+    "region": "Baiken Stages",
+    "category": [
+      "Baiken",
+      "Full Meter"
+    ]
+  },
+  {
+    "name": "Baiken Nice Burst",
+    "region": "Baiken Stages",
+    "category": [
+      "Baiken",
+      "Nice Burst"
+    ]
+  },
+  {
+    "name": "Baiken No Burst Win",
+    "region": "Baiken Stages",
+    "category": [
+      "Baiken",
+      "No Burst"
+    ]
+  },
+  {
+    "name": "Venom Lose",
+    "region": "Venom Stages",
+    "category": [
+      "Venom",
+      "Lose"
+    ],
+    "place_item": [
+      "Venom Difficulty Reduction"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Venom Stage 1 Win",
+    "region": "Venom Stages",
+    "category": [
+      "Venom",
+      "Stage 1"
+    ],
+    "requires": "|Venom Difficulty Reduction:1|"
+  },
+  {
+    "name": "Venom Stage 2 Win",
+    "region": "Venom Stages",
+    "category": [
+      "Venom",
+      "Stage 2"
+    ],
+    "requires": "|Venom Continue Unlock| and |Venom Difficulty Reduction:1|"
+  },
+  {
+    "name": "Venom Stage 3 Win",
+    "region": "Venom Stages",
+    "category": [
+      "Venom",
+      "Stage 3"
+    ],
+    "requires": "|Venom Continue Unlock| and |Venom Difficulty Reduction:2|"
+  },
+  {
+    "name": "Venom Stage 4 Win",
+    "region": "Venom Stages",
+    "category": [
+      "Venom",
+      "Stage 4"
+    ],
+    "requires": "|Venom Continue Unlock| and |Venom Difficulty Reduction:2|"
+  },
+  {
+    "name": "Venom Stage 5 Win",
+    "region": "Venom Stages",
+    "category": [
+      "Venom",
+      "Stage 5"
+    ],
+    "requires": "|Venom Continue Unlock| and |Venom Difficulty Reduction:3|"
+  },
+  {
+    "name": "Venom Stage 6 Win",
+    "region": "Venom Stages",
+    "category": [
+      "Venom",
+      "Stage 6"
+    ],
+    "requires": "|Venom Continue Unlock| and |Venom Difficulty Reduction:3|"
+  },
+  {
+    "name": "Venom Stage 7 Win",
+    "region": "Venom Stages",
+    "category": [
+      "Venom",
+      "Stage 7"
+    ],
+    "requires": "|Venom Continue Unlock| and |Venom Difficulty Reduction:4|"
+  },
+  {
+    "name": "Venom Stage 8 Win",
+    "region": "Venom Stages",
+    "category": [
+      "Venom",
+      "Stage 8"
+    ],
+    "requires": "|Venom Continue Unlock| and |Venom Difficulty Reduction:4|"
+  },
+  {
+    "name": "Venom Stage 9 Win",
+    "region": "Venom Stages",
+    "category": [
+      "Venom",
+      "Stage 9"
+    ],
+    "requires": "|Venom Continue Unlock| and |Venom Difficulty Reduction:5|"
+  },
+  {
+    "name": "Venom Stage 10 Win",
+    "region": "Venom Stages",
+    "category": [
+      "Venom",
+      "Stage 10"
+    ],
+    "requires": "|Venom Continue Unlock| and |Venom Difficulty Reduction:5|"
+  },
+  {
+    "name": "Venom Complete",
+    "region": "Venom Stages",
+    "category": [
+      "Venom",
+      "Complete"
+    ],
+    "place_item": [
+      "Venom Completed"
+    ],
+    "requires": "|Venom Continue Unlock| and |Venom Difficulty Reduction:5|"
+  },
+  {
+    "name": "Venom Perfect Win",
+    "region": "Venom Stages",
+    "category": [
+      "Venom",
+      "Perfect Win"
+    ],
+    "requires": "|Venom Difficulty Reduction:5|"
+  },
+  {
+    "name": "Venom Instant Kill Win",
+    "region": "Venom Stages",
+    "category": [
+      "Venom",
+      "Instant Kill"
+    ],
+    "requires": "|Venom Instant Kill|"
+  },
+  {
+    "name": "Venom Super Finish",
+    "region": "Venom Stages",
+    "category": [
+      "Venom",
+      "Super Finish"
+    ]
+  },
+  {
+    "name": "Venom Taunt and Still Win",
+    "region": "Venom Stages",
+    "category": [
+      "Venom",
+      "Taunt"
+    ]
+  },
+  {
+    "name": "Venom Win With Full Meter",
+    "region": "Venom Stages",
+    "category": [
+      "Venom",
+      "Full Meter"
+    ]
+  },
+  {
+    "name": "Venom Nice Burst",
+    "region": "Venom Stages",
+    "category": [
+      "Venom",
+      "Nice Burst"
+    ]
+  },
+  {
+    "name": "Venom No Burst Win",
+    "region": "Venom Stages",
+    "category": [
+      "Venom",
+      "No Burst"
+    ]
+  },
+  {
+    "name": "Bridget Lose",
+    "region": "Bridget Stages",
+    "category": [
+      "Bridget",
+      "Lose"
+    ],
+    "place_item": [
+      "Bridget Difficulty Reduction"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Bridget Stage 1 Win",
+    "region": "Bridget Stages",
+    "category": [
+      "Bridget",
+      "Stage 1"
+    ],
+    "requires": "|Bridget Difficulty Reduction:1|"
+  },
+  {
+    "name": "Bridget Stage 2 Win",
+    "region": "Bridget Stages",
+    "category": [
+      "Bridget",
+      "Stage 2"
+    ],
+    "requires": "|Bridget Continue Unlock| and |Bridget Difficulty Reduction:1|"
+  },
+  {
+    "name": "Bridget Stage 3 Win",
+    "region": "Bridget Stages",
+    "category": [
+      "Bridget",
+      "Stage 3"
+    ],
+    "requires": "|Bridget Continue Unlock| and |Bridget Difficulty Reduction:2|"
+  },
+  {
+    "name": "Bridget Stage 4 Win",
+    "region": "Bridget Stages",
+    "category": [
+      "Bridget",
+      "Stage 4"
+    ],
+    "requires": "|Bridget Continue Unlock| and |Bridget Difficulty Reduction:2|"
+  },
+  {
+    "name": "Bridget Stage 5 Win",
+    "region": "Bridget Stages",
+    "category": [
+      "Bridget",
+      "Stage 5"
+    ],
+    "requires": "|Bridget Continue Unlock| and |Bridget Difficulty Reduction:3|"
+  },
+  {
+    "name": "Bridget Stage 6 Win",
+    "region": "Bridget Stages",
+    "category": [
+      "Bridget",
+      "Stage 6"
+    ],
+    "requires": "|Bridget Continue Unlock| and |Bridget Difficulty Reduction:3|"
+  },
+  {
+    "name": "Bridget Stage 7 Win",
+    "region": "Bridget Stages",
+    "category": [
+      "Bridget",
+      "Stage 7"
+    ],
+    "requires": "|Bridget Continue Unlock| and |Bridget Difficulty Reduction:4|"
+  },
+  {
+    "name": "Bridget Stage 8 Win",
+    "region": "Bridget Stages",
+    "category": [
+      "Bridget",
+      "Stage 8"
+    ],
+    "requires": "|Bridget Continue Unlock| and |Bridget Difficulty Reduction:4|"
+  },
+  {
+    "name": "Bridget Stage 9 Win",
+    "region": "Bridget Stages",
+    "category": [
+      "Bridget",
+      "Stage 9"
+    ],
+    "requires": "|Bridget Continue Unlock| and |Bridget Difficulty Reduction:5|"
+  },
+  {
+    "name": "Bridget Stage 10 Win",
+    "region": "Bridget Stages",
+    "category": [
+      "Bridget",
+      "Stage 10"
+    ],
+    "requires": "|Bridget Continue Unlock| and |Bridget Difficulty Reduction:5|"
+  },
+  {
+    "name": "Bridget Complete",
+    "region": "Bridget Stages",
+    "category": [
+      "Bridget",
+      "Complete"
+    ],
+    "place_item": [
+      "Bridget Completed"
+    ],
+    "requires": "|Bridget Continue Unlock| and |Bridget Difficulty Reduction:5|"
+  },
+  {
+    "name": "Bridget Perfect Win",
+    "region": "Bridget Stages",
+    "category": [
+      "Bridget",
+      "Perfect Win"
+    ],
+    "requires": "|Bridget Difficulty Reduction:5|"
+  },
+  {
+    "name": "Bridget Instant Kill Win",
+    "region": "Bridget Stages",
+    "category": [
+      "Bridget",
+      "Instant Kill"
+    ],
+    "requires": "|Bridget Instant Kill|"
+  },
+  {
+    "name": "Bridget Super Finish",
+    "region": "Bridget Stages",
+    "category": [
+      "Bridget",
+      "Super Finish"
+    ]
+  },
+  {
+    "name": "Bridget Taunt and Still Win",
+    "region": "Bridget Stages",
+    "category": [
+      "Bridget",
+      "Taunt"
+    ]
+  },
+  {
+    "name": "Bridget Win With Full Meter",
+    "region": "Bridget Stages",
+    "category": [
+      "Bridget",
+      "Full Meter"
+    ]
+  },
+  {
+    "name": "Bridget Nice Burst",
+    "region": "Bridget Stages",
+    "category": [
+      "Bridget",
+      "Nice Burst"
+    ]
+  },
+  {
+    "name": "Bridget No Burst Win",
+    "region": "Bridget Stages",
+    "category": [
+      "Bridget",
+      "No Burst"
+    ]
+  },
+  {
+    "name": "Faust Lose",
+    "region": "Faust Stages",
+    "category": [
+      "Faust",
+      "Lose"
+    ],
+    "place_item": [
+      "Faust Difficulty Reduction"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Faust Stage 1 Win",
+    "region": "Faust Stages",
+    "category": [
+      "Faust",
+      "Stage 1"
+    ],
+    "requires": "|Faust Difficulty Reduction:1|"
+  },
+  {
+    "name": "Faust Stage 2 Win",
+    "region": "Faust Stages",
+    "category": [
+      "Faust",
+      "Stage 2"
+    ],
+    "requires": "|Faust Continue Unlock| and |Faust Difficulty Reduction:1|"
+  },
+  {
+    "name": "Faust Stage 3 Win",
+    "region": "Faust Stages",
+    "category": [
+      "Faust",
+      "Stage 3"
+    ],
+    "requires": "|Faust Continue Unlock| and |Faust Difficulty Reduction:2|"
+  },
+  {
+    "name": "Faust Stage 4 Win",
+    "region": "Faust Stages",
+    "category": [
+      "Faust",
+      "Stage 4"
+    ],
+    "requires": "|Faust Continue Unlock| and |Faust Difficulty Reduction:2|"
+  },
+  {
+    "name": "Faust Stage 5 Win",
+    "region": "Faust Stages",
+    "category": [
+      "Faust",
+      "Stage 5"
+    ],
+    "requires": "|Faust Continue Unlock| and |Faust Difficulty Reduction:3|"
+  },
+  {
+    "name": "Faust Stage 6 Win",
+    "region": "Faust Stages",
+    "category": [
+      "Faust",
+      "Stage 6"
+    ],
+    "requires": "|Faust Continue Unlock| and |Faust Difficulty Reduction:3|"
+  },
+  {
+    "name": "Faust Stage 7 Win",
+    "region": "Faust Stages",
+    "category": [
+      "Faust",
+      "Stage 7"
+    ],
+    "requires": "|Faust Continue Unlock| and |Faust Difficulty Reduction:4|"
+  },
+  {
+    "name": "Faust Stage 8 Win",
+    "region": "Faust Stages",
+    "category": [
+      "Faust",
+      "Stage 8"
+    ],
+    "requires": "|Faust Continue Unlock| and |Faust Difficulty Reduction:4|"
+  },
+  {
+    "name": "Faust Stage 9 Win",
+    "region": "Faust Stages",
+    "category": [
+      "Faust",
+      "Stage 9"
+    ],
+    "requires": "|Faust Continue Unlock| and |Faust Difficulty Reduction:5|"
+  },
+  {
+    "name": "Faust Stage 10 Win",
+    "region": "Faust Stages",
+    "category": [
+      "Faust",
+      "Stage 10"
+    ],
+    "requires": "|Faust Continue Unlock| and |Faust Difficulty Reduction:5|"
+  },
+  {
+    "name": "Faust Complete",
+    "region": "Faust Stages",
+    "category": [
+      "Faust",
+      "Complete"
+    ],
+    "place_item": [
+      "Faust Completed"
+    ],
+    "requires": "|Faust Continue Unlock| and |Faust Difficulty Reduction:5|"
+  },
+  {
+    "name": "Faust Perfect Win",
+    "region": "Faust Stages",
+    "category": [
+      "Faust",
+      "Perfect Win"
+    ],
+    "requires": "|Faust Difficulty Reduction:5|"
+  },
+  {
+    "name": "Faust Instant Kill Win",
+    "region": "Faust Stages",
+    "category": [
+      "Faust",
+      "Instant Kill"
+    ],
+    "requires": "|Faust Instant Kill|"
+  },
+  {
+    "name": "Faust Super Finish",
+    "region": "Faust Stages",
+    "category": [
+      "Faust",
+      "Super Finish"
+    ]
+  },
+  {
+    "name": "Faust Taunt and Still Win",
+    "region": "Faust Stages",
+    "category": [
+      "Faust",
+      "Taunt"
+    ]
+  },
+  {
+    "name": "Faust Win With Full Meter",
+    "region": "Faust Stages",
+    "category": [
+      "Faust",
+      "Full Meter"
+    ]
+  },
+  {
+    "name": "Faust Nice Burst",
+    "region": "Faust Stages",
+    "category": [
+      "Faust",
+      "Nice Burst"
+    ]
+  },
+  {
+    "name": "Faust No Burst Win",
+    "region": "Faust Stages",
+    "category": [
+      "Faust",
+      "No Burst"
+    ]
+  },
+  {
+    "name": "Potemkin Lose",
+    "region": "Potemkin Stages",
+    "category": [
+      "Potemkin",
+      "Lose"
+    ],
+    "place_item": [
+      "Potemkin Difficulty Reduction"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Potemkin Stage 1 Win",
+    "region": "Potemkin Stages",
+    "category": [
+      "Potemkin",
+      "Stage 1"
+    ],
+    "requires": "|Potemkin Difficulty Reduction:1|"
+  },
+  {
+    "name": "Potemkin Stage 2 Win",
+    "region": "Potemkin Stages",
+    "category": [
+      "Potemkin",
+      "Stage 2"
+    ],
+    "requires": "|Potemkin Continue Unlock| and |Potemkin Difficulty Reduction:1|"
+  },
+  {
+    "name": "Potemkin Stage 3 Win",
+    "region": "Potemkin Stages",
+    "category": [
+      "Potemkin",
+      "Stage 3"
+    ],
+    "requires": "|Potemkin Continue Unlock| and |Potemkin Difficulty Reduction:2|"
+  },
+  {
+    "name": "Potemkin Stage 4 Win",
+    "region": "Potemkin Stages",
+    "category": [
+      "Potemkin",
+      "Stage 4"
+    ],
+    "requires": "|Potemkin Continue Unlock| and |Potemkin Difficulty Reduction:2|"
+  },
+  {
+    "name": "Potemkin Stage 5 Win",
+    "region": "Potemkin Stages",
+    "category": [
+      "Potemkin",
+      "Stage 5"
+    ],
+    "requires": "|Potemkin Continue Unlock| and |Potemkin Difficulty Reduction:3|"
+  },
+  {
+    "name": "Potemkin Stage 6 Win",
+    "region": "Potemkin Stages",
+    "category": [
+      "Potemkin",
+      "Stage 6"
+    ],
+    "requires": "|Potemkin Continue Unlock| and |Potemkin Difficulty Reduction:3|"
+  },
+  {
+    "name": "Potemkin Stage 7 Win",
+    "region": "Potemkin Stages",
+    "category": [
+      "Potemkin",
+      "Stage 7"
+    ],
+    "requires": "|Potemkin Continue Unlock| and |Potemkin Difficulty Reduction:4|"
+  },
+  {
+    "name": "Potemkin Stage 8 Win",
+    "region": "Potemkin Stages",
+    "category": [
+      "Potemkin",
+      "Stage 8"
+    ],
+    "requires": "|Potemkin Continue Unlock| and |Potemkin Difficulty Reduction:4|"
+  },
+  {
+    "name": "Potemkin Stage 9 Win",
+    "region": "Potemkin Stages",
+    "category": [
+      "Potemkin",
+      "Stage 9"
+    ],
+    "requires": "|Potemkin Continue Unlock| and |Potemkin Difficulty Reduction:5|"
+  },
+  {
+    "name": "Potemkin Stage 10 Win",
+    "region": "Potemkin Stages",
+    "category": [
+      "Potemkin",
+      "Stage 10"
+    ],
+    "requires": "|Potemkin Continue Unlock| and |Potemkin Difficulty Reduction:5|"
+  },
+  {
+    "name": "Potemkin Complete",
+    "region": "Potemkin Stages",
+    "category": [
+      "Potemkin",
+      "Complete"
+    ],
+    "place_item": [
+      "Potemkin Completed"
+    ],
+    "requires": "|Potemkin Continue Unlock| and |Potemkin Difficulty Reduction:5|"
+  },
+  {
+    "name": "Potemkin Perfect Win",
+    "region": "Potemkin Stages",
+    "category": [
+      "Potemkin",
+      "Perfect Win"
+    ],
+    "requires": "|Potemkin Difficulty Reduction:5|"
+  },
+  {
+    "name": "Potemkin Instant Kill Win",
+    "region": "Potemkin Stages",
+    "category": [
+      "Potemkin",
+      "Instant Kill"
+    ],
+    "requires": "|Potemkin Instant Kill|"
+  },
+  {
+    "name": "Potemkin Super Finish",
+    "region": "Potemkin Stages",
+    "category": [
+      "Potemkin",
+      "Super Finish"
+    ]
+  },
+  {
+    "name": "Potemkin Taunt and Still Win",
+    "region": "Potemkin Stages",
+    "category": [
+      "Potemkin",
+      "Taunt"
+    ]
+  },
+  {
+    "name": "Potemkin Win With Full Meter",
+    "region": "Potemkin Stages",
+    "category": [
+      "Potemkin",
+      "Full Meter"
+    ]
+  },
+  {
+    "name": "Potemkin Nice Burst",
+    "region": "Potemkin Stages",
+    "category": [
+      "Potemkin",
+      "Nice Burst"
+    ]
+  },
+  {
+    "name": "Potemkin No Burst Win",
+    "region": "Potemkin Stages",
+    "category": [
+      "Potemkin",
+      "No Burst"
+    ]
+  },
+  {
+    "name": "Justice Lose",
+    "region": "Justice Stages",
+    "category": [
+      "Justice",
+      "Lose"
+    ],
+    "place_item": [
+      "Justice Difficulty Reduction"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Justice Stage 1 Win",
+    "region": "Justice Stages",
+    "category": [
+      "Justice",
+      "Stage 1"
+    ],
+    "requires": "|Justice Difficulty Reduction:1|"
+  },
+  {
+    "name": "Justice Stage 2 Win",
+    "region": "Justice Stages",
+    "category": [
+      "Justice",
+      "Stage 2"
+    ],
+    "requires": "|Justice Continue Unlock| and |Justice Difficulty Reduction:1|"
+  },
+  {
+    "name": "Justice Stage 3 Win",
+    "region": "Justice Stages",
+    "category": [
+      "Justice",
+      "Stage 3"
+    ],
+    "requires": "|Justice Continue Unlock| and |Justice Difficulty Reduction:2|"
+  },
+  {
+    "name": "Justice Stage 4 Win",
+    "region": "Justice Stages",
+    "category": [
+      "Justice",
+      "Stage 4"
+    ],
+    "requires": "|Justice Continue Unlock| and |Justice Difficulty Reduction:2|"
+  },
+  {
+    "name": "Justice Stage 5 Win",
+    "region": "Justice Stages",
+    "category": [
+      "Justice",
+      "Stage 5"
+    ],
+    "requires": "|Justice Continue Unlock| and |Justice Difficulty Reduction:3|"
+  },
+  {
+    "name": "Justice Stage 6 Win",
+    "region": "Justice Stages",
+    "category": [
+      "Justice",
+      "Stage 6"
+    ],
+    "requires": "|Justice Continue Unlock| and |Justice Difficulty Reduction:3|"
+  },
+  {
+    "name": "Justice Stage 7 Win",
+    "region": "Justice Stages",
+    "category": [
+      "Justice",
+      "Stage 7"
+    ],
+    "requires": "|Justice Continue Unlock| and |Justice Difficulty Reduction:4|"
+  },
+  {
+    "name": "Justice Stage 8 Win",
+    "region": "Justice Stages",
+    "category": [
+      "Justice",
+      "Stage 8"
+    ],
+    "requires": "|Justice Continue Unlock| and |Justice Difficulty Reduction:4|"
+  },
+  {
+    "name": "Justice Stage 9 Win",
+    "region": "Justice Stages",
+    "category": [
+      "Justice",
+      "Stage 9"
+    ],
+    "requires": "|Justice Continue Unlock| and |Justice Difficulty Reduction:5|"
+  },
+  {
+    "name": "Justice Stage 10 Win",
+    "region": "Justice Stages",
+    "category": [
+      "Justice",
+      "Stage 10"
+    ],
+    "requires": "|Justice Continue Unlock| and |Justice Difficulty Reduction:5|"
+  },
+  {
+    "name": "Justice Complete",
+    "region": "Justice Stages",
+    "category": [
+      "Justice",
+      "Complete"
+    ],
+    "place_item": [
+      "Justice Completed"
+    ],
+    "requires": "|Justice Continue Unlock| and |Justice Difficulty Reduction:5|"
+  },
+  {
+    "name": "Justice Perfect Win",
+    "region": "Justice Stages",
+    "category": [
+      "Justice",
+      "Perfect Win"
+    ],
+    "requires": "|Justice Difficulty Reduction:5|"
+  },
+  {
+    "name": "Justice Instant Kill Win",
+    "region": "Justice Stages",
+    "category": [
+      "Justice",
+      "Instant Kill"
+    ],
+    "requires": "|Justice Instant Kill|"
+  },
+  {
+    "name": "Justice Super Finish",
+    "region": "Justice Stages",
+    "category": [
+      "Justice",
+      "Super Finish"
+    ]
+  },
+  {
+    "name": "Justice Taunt and Still Win",
+    "region": "Justice Stages",
+    "category": [
+      "Justice",
+      "Taunt"
+    ]
+  },
+  {
+    "name": "Justice Win With Full Meter",
+    "region": "Justice Stages",
+    "category": [
+      "Justice",
+      "Full Meter"
+    ]
+  },
+  {
+    "name": "Justice Nice Burst",
+    "region": "Justice Stages",
+    "category": [
+      "Justice",
+      "Nice Burst"
+    ]
+  },
+  {
+    "name": "Justice No Burst Win",
+    "region": "Justice Stages",
+    "category": [
+      "Justice",
+      "No Burst"
+    ]
+  },
+  {
+    "name": "I-No Lose",
+    "region": "I-No Stages",
+    "category": [
+      "I-No",
+      "Lose"
+    ],
+    "place_item": [
+      "I-No Difficulty Reduction"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "I-No Stage 1 Win",
+    "region": "I-No Stages",
+    "category": [
+      "I-No",
+      "Stage 1"
+    ],
+    "requires": "|I-No Difficulty Reduction:1|"
+  },
+  {
+    "name": "I-No Stage 2 Win",
+    "region": "I-No Stages",
+    "category": [
+      "I-No",
+      "Stage 2"
+    ],
+    "requires": "|I-No Continue Unlock| and |I-No Difficulty Reduction:1|"
+  },
+  {
+    "name": "I-No Stage 3 Win",
+    "region": "I-No Stages",
+    "category": [
+      "I-No",
+      "Stage 3"
+    ],
+    "requires": "|I-No Continue Unlock| and |I-No Difficulty Reduction:2|"
+  },
+  {
+    "name": "I-No Stage 4 Win",
+    "region": "I-No Stages",
+    "category": [
+      "I-No",
+      "Stage 4"
+    ],
+    "requires": "|I-No Continue Unlock| and |I-No Difficulty Reduction:2|"
+  },
+  {
+    "name": "I-No Stage 5 Win",
+    "region": "I-No Stages",
+    "category": [
+      "I-No",
+      "Stage 5"
+    ],
+    "requires": "|I-No Continue Unlock| and |I-No Difficulty Reduction:3|"
+  },
+  {
+    "name": "I-No Stage 6 Win",
+    "region": "I-No Stages",
+    "category": [
+      "I-No",
+      "Stage 6"
+    ],
+    "requires": "|I-No Continue Unlock| and |I-No Difficulty Reduction:3|"
+  },
+  {
+    "name": "I-No Stage 7 Win",
+    "region": "I-No Stages",
+    "category": [
+      "I-No",
+      "Stage 7"
+    ],
+    "requires": "|I-No Continue Unlock| and |I-No Difficulty Reduction:4|"
+  },
+  {
+    "name": "I-No Stage 8 Win",
+    "region": "I-No Stages",
+    "category": [
+      "I-No",
+      "Stage 8"
+    ],
+    "requires": "|I-No Continue Unlock| and |I-No Difficulty Reduction:4|"
+  },
+  {
+    "name": "I-No Stage 9 Win",
+    "region": "I-No Stages",
+    "category": [
+      "I-No",
+      "Stage 9"
+    ],
+    "requires": "|I-No Continue Unlock| and |I-No Difficulty Reduction:5|"
+  },
+  {
+    "name": "I-No Stage 10 Win",
+    "region": "I-No Stages",
+    "category": [
+      "I-No",
+      "Stage 10"
+    ],
+    "requires": "|I-No Continue Unlock| and |I-No Difficulty Reduction:5|"
+  },
+  {
+    "name": "I-No Complete",
+    "region": "I-No Stages",
+    "category": [
+      "I-No",
+      "Complete"
+    ],
+    "place_item": [
+      "I-No Completed"
+    ],
+    "requires": "|I-No Continue Unlock| and |I-No Difficulty Reduction:5|"
+  },
+  {
+    "name": "I-No Perfect Win",
+    "region": "I-No Stages",
+    "category": [
+      "I-No",
+      "Perfect Win"
+    ],
+    "requires": "|I-No Difficulty Reduction:5|"
+  },
+  {
+    "name": "I-No Instant Kill Win",
+    "region": "I-No Stages",
+    "category": [
+      "I-No",
+      "Instant Kill"
+    ],
+    "requires": "|I-No Instant Kill|"
+  },
+  {
+    "name": "I-No Super Finish",
+    "region": "I-No Stages",
+    "category": [
+      "I-No",
+      "Super Finish"
+    ]
+  },
+  {
+    "name": "I-No Taunt and Still Win",
+    "region": "I-No Stages",
+    "category": [
+      "I-No",
+      "Taunt"
+    ]
+  },
+  {
+    "name": "I-No Win With Full Meter",
+    "region": "I-No Stages",
+    "category": [
+      "I-No",
+      "Full Meter"
+    ]
+  },
+  {
+    "name": "I-No Nice Burst",
+    "region": "I-No Stages",
+    "category": [
+      "I-No",
+      "Nice Burst"
+    ]
+  },
+  {
+    "name": "I-No No Burst Win",
+    "region": "I-No Stages",
+    "category": [
+      "I-No",
+      "No Burst"
+    ]
+  },
+  {
+    "name": "Stage 1 Win",
+    "region": "Any Character Stages",
+    "category": [
+      "Any Character",
+      "Stage 1"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Stage 2 Win",
+    "region": "Any Character Stages",
+    "category": [
+      "Any Character",
+      "Stage 2"
+    ],
+    "requires": "|@Stage 2 Complete|"
+  },
+  {
+    "name": "Stage 3 Win",
+    "region": "Any Character Stages",
+    "category": [
+      "Any Character",
+      "Stage 3"
+    ],
+    "requires": "|@Stage 3 Complete|"
+  },
+  {
+    "name": "Stage 4 Win",
+    "region": "Any Character Stages",
+    "category": [
+      "Any Character",
+      "Stage 4"
+    ],
+    "requires": "|@Stage 3 Complete|"
+  },
+  {
+    "name": "Stage 5 Win",
+    "region": "Any Character Stages",
+    "category": [
+      "Any Character",
+      "Stage 5"
+    ],
+    "requires": "|@Stage 5 Complete|"
+  },
+  {
+    "name": "Stage 6 Win",
+    "region": "Any Character Stages",
+    "category": [
+      "Any Character",
+      "Stage 6"
+    ],
+    "requires": "|@Stage 5 Complete|"
+  },
+  {
+    "name": "Stage 7 Win",
+    "region": "Any Character Stages",
+    "category": [
+      "Any Character",
+      "Stage 7"
+    ],
+    "requires": "|@Stage 7 Complete|"
+  },
+  {
+    "name": "Stage 8 Win",
+    "region": "Any Character Stages",
+    "category": [
+      "Any Character",
+      "Stage 8"
+    ],
+    "requires": "|@Stage 7 Complete|"
+  },
+  {
+    "name": "Stage 9 Win",
+    "region": "Any Character Stages",
+    "category": [
+      "Any Character",
+      "Stage 9"
+    ],
+    "requires": "|@Stage 10 Complete|"
+  },
+  {
+    "name": "Stage 10 Win",
+    "region": "Any Character Stages",
+    "category": [
+      "Any Character",
+      "Stage 10"
+    ],
+    "requires": "|@Stage 10 Complete|"
+  },
+  {
+    "name": "Perfect Win",
+    "region": "Any Character Stages",
+    "category": [
+      "Any Character",
+      "Perfect Win",
+      "Condition"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Instant Kill",
+    "region": "Any Character Stages",
+    "category": [
+      "Any Character",
+      "Instant Kill",
+      "Condition"
+    ],
+    "requires": "|@Instant Kill Win|"
+  },
+  {
+    "name": "Super Finish",
+    "region": "Any Character Stages",
+    "category": [
+      "Any Character",
+      "Super Finish",
+      "Condition"
+    ]
+  },
+  {
+    "name": "Taunt",
+    "region": "Any Character Stages",
+    "category": [
+      "Any Character",
+      "Taunt",
+      "Condition"
+    ]
+  },
+  {
+    "name": "Full Meter",
+    "region": "Any Character Stages",
+    "category": [
+      "Any Character",
+      "Full Meter",
+      "Condition"
+    ]
+  },
+  {
+    "name": "Nice Burst",
+    "region": "Any Character Stages",
+    "category": [
+      "Any Character",
+      "Nice Burst",
+      "Condition"
+    ]
+  },
+  {
+    "name": "No Burst",
+    "region": "Any Character Stages",
+    "category": [
+      "Any Character",
+      "No Burst",
+      "Condition"
+    ]
+  }
+]

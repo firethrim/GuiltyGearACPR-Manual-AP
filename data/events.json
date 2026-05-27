@@ -1,0 +1,1227 @@
+[
+  {
+    "name": "Kliff Stage 2 Complete",
+    "copy_location": "Kliff Stage 2 Win",
+    "category": [
+      "Kliff",
+      "Stage 2 Complete"
+    ]
+  },
+  {
+    "name": "Kliff Stage 3 Complete",
+    "copy_location": "Kliff Stage 3 Win",
+    "category": [
+      "Kliff",
+      "Stage 3 Complete"
+    ]
+  },
+  {
+    "name": "Kliff Stage 5 Complete",
+    "copy_location": "Kliff Stage 5 Win",
+    "category": [
+      "Kliff",
+      "Stage 5 Complete"
+    ]
+  },
+  {
+    "name": "Kliff Stage 7 Complete",
+    "copy_location": "Kliff Stage 7 Win",
+    "category": [
+      "Kliff",
+      "Stage 7 Complete"
+    ]
+  },
+  {
+    "name": "Kliff Stage 10 Complete",
+    "copy_location": "Kliff Stage 10 Win",
+    "category": [
+      "Kliff",
+      "Stage 10 Complete"
+    ]
+  },
+  {
+    "name": "Kliff Instant Kill",
+    "copy_location": "Kliff Instant Kill Win",
+    "category": [
+      "Kliff",
+      "Instant Kill",
+      "Instant Kill Win"
+    ]
+  },
+  {
+    "name": "Axl Stage 2 Complete",
+    "copy_location": "Axl Stage 2 Win",
+    "category": [
+      "Axl",
+      "Stage 2 Complete"
+    ]
+  },
+  {
+    "name": "Axl Stage 3 Complete",
+    "copy_location": "Axl Stage 3 Win",
+    "category": [
+      "Axl",
+      "Stage 3 Complete"
+    ]
+  },
+  {
+    "name": "Axl Stage 5 Complete",
+    "copy_location": "Axl Stage 5 Win",
+    "category": [
+      "Axl",
+      "Stage 5 Complete"
+    ]
+  },
+  {
+    "name": "Axl Stage 7 Complete",
+    "copy_location": "Axl Stage 7 Win",
+    "category": [
+      "Axl",
+      "Stage 7 Complete"
+    ]
+  },
+  {
+    "name": "Axl Stage 10 Complete",
+    "copy_location": "Axl Stage 10 Win",
+    "category": [
+      "Axl",
+      "Stage 10 Complete"
+    ]
+  },
+  {
+    "name": "Axl Instant Kill",
+    "copy_location": "Axl Instant Kill Win",
+    "category": [
+      "Axl",
+      "Instant Kill",
+      "Instant Kill Win"
+    ]
+  },
+  {
+    "name": "Jam Stage 2 Complete",
+    "copy_location": "Jam Stage 2 Win",
+    "category": [
+      "Jam",
+      "Stage 2 Complete"
+    ]
+  },
+  {
+    "name": "Jam Stage 3 Complete",
+    "copy_location": "Jam Stage 3 Win",
+    "category": [
+      "Jam",
+      "Stage 3 Complete"
+    ]
+  },
+  {
+    "name": "Jam Stage 5 Complete",
+    "copy_location": "Jam Stage 5 Win",
+    "category": [
+      "Jam",
+      "Stage 5 Complete"
+    ]
+  },
+  {
+    "name": "Jam Stage 7 Complete",
+    "copy_location": "Jam Stage 7 Win",
+    "category": [
+      "Jam",
+      "Stage 7 Complete"
+    ]
+  },
+  {
+    "name": "Jam Stage 10 Complete",
+    "copy_location": "Jam Stage 10 Win",
+    "category": [
+      "Jam",
+      "Stage 10 Complete"
+    ]
+  },
+  {
+    "name": "Jam Instant Kill",
+    "copy_location": "Jam Instant Kill Win",
+    "category": [
+      "Jam",
+      "Instant Kill",
+      "Instant Kill Win"
+    ]
+  },
+  {
+    "name": "Zappa Stage 2 Complete",
+    "copy_location": "Zappa Stage 2 Win",
+    "category": [
+      "Zappa",
+      "Stage 2 Complete"
+    ]
+  },
+  {
+    "name": "Zappa Stage 3 Complete",
+    "copy_location": "Zappa Stage 3 Win",
+    "category": [
+      "Zappa",
+      "Stage 3 Complete"
+    ]
+  },
+  {
+    "name": "Zappa Stage 5 Complete",
+    "copy_location": "Zappa Stage 5 Win",
+    "category": [
+      "Zappa",
+      "Stage 5 Complete"
+    ]
+  },
+  {
+    "name": "Zappa Stage 7 Complete",
+    "copy_location": "Zappa Stage 7 Win",
+    "category": [
+      "Zappa",
+      "Stage 7 Complete"
+    ]
+  },
+  {
+    "name": "Zappa Stage 10 Complete",
+    "copy_location": "Zappa Stage 10 Win",
+    "category": [
+      "Zappa",
+      "Stage 10 Complete"
+    ]
+  },
+  {
+    "name": "Zappa Instant Kill",
+    "copy_location": "Zappa Instant Kill Win",
+    "category": [
+      "Zappa",
+      "Instant Kill",
+      "Instant Kill Win"
+    ]
+  },
+  {
+    "name": "Chipp Stage 2 Complete",
+    "copy_location": "Chipp Stage 2 Win",
+    "category": [
+      "Chipp",
+      "Stage 2 Complete"
+    ]
+  },
+  {
+    "name": "Chipp Stage 3 Complete",
+    "copy_location": "Chipp Stage 3 Win",
+    "category": [
+      "Chipp",
+      "Stage 3 Complete"
+    ]
+  },
+  {
+    "name": "Chipp Stage 5 Complete",
+    "copy_location": "Chipp Stage 5 Win",
+    "category": [
+      "Chipp",
+      "Stage 5 Complete"
+    ]
+  },
+  {
+    "name": "Chipp Stage 7 Complete",
+    "copy_location": "Chipp Stage 7 Win",
+    "category": [
+      "Chipp",
+      "Stage 7 Complete"
+    ]
+  },
+  {
+    "name": "Chipp Stage 10 Complete",
+    "copy_location": "Chipp Stage 10 Win",
+    "category": [
+      "Chipp",
+      "Stage 10 Complete"
+    ]
+  },
+  {
+    "name": "Chipp Instant Kill",
+    "copy_location": "Chipp Instant Kill Win",
+    "category": [
+      "Chipp",
+      "Instant Kill",
+      "Instant Kill Win"
+    ]
+  },
+  {
+    "name": "Dizzy Stage 2 Complete",
+    "copy_location": "Dizzy Stage 2 Win",
+    "category": [
+      "Dizzy",
+      "Stage 2 Complete"
+    ]
+  },
+  {
+    "name": "Dizzy Stage 3 Complete",
+    "copy_location": "Dizzy Stage 3 Win",
+    "category": [
+      "Dizzy",
+      "Stage 3 Complete"
+    ]
+  },
+  {
+    "name": "Dizzy Stage 5 Complete",
+    "copy_location": "Dizzy Stage 5 Win",
+    "category": [
+      "Dizzy",
+      "Stage 5 Complete"
+    ]
+  },
+  {
+    "name": "Dizzy Stage 7 Complete",
+    "copy_location": "Dizzy Stage 7 Win",
+    "category": [
+      "Dizzy",
+      "Stage 7 Complete"
+    ]
+  },
+  {
+    "name": "Dizzy Stage 10 Complete",
+    "copy_location": "Dizzy Stage 10 Win",
+    "category": [
+      "Dizzy",
+      "Stage 10 Complete"
+    ]
+  },
+  {
+    "name": "Dizzy Instant Kill",
+    "copy_location": "Dizzy Instant Kill Win",
+    "category": [
+      "Dizzy",
+      "Instant Kill",
+      "Instant Kill Win"
+    ]
+  },
+  {
+    "name": "Anji Stage 2 Complete",
+    "copy_location": "Anji Stage 2 Win",
+    "category": [
+      "Anji",
+      "Stage 2 Complete"
+    ]
+  },
+  {
+    "name": "Anji Stage 3 Complete",
+    "copy_location": "Anji Stage 3 Win",
+    "category": [
+      "Anji",
+      "Stage 3 Complete"
+    ]
+  },
+  {
+    "name": "Anji Stage 5 Complete",
+    "copy_location": "Anji Stage 5 Win",
+    "category": [
+      "Anji",
+      "Stage 5 Complete"
+    ]
+  },
+  {
+    "name": "Anji Stage 7 Complete",
+    "copy_location": "Anji Stage 7 Win",
+    "category": [
+      "Anji",
+      "Stage 7 Complete"
+    ]
+  },
+  {
+    "name": "Anji Stage 10 Complete",
+    "copy_location": "Anji Stage 10 Win",
+    "category": [
+      "Anji",
+      "Stage 10 Complete"
+    ]
+  },
+  {
+    "name": "Anji Instant Kill",
+    "copy_location": "Anji Instant Kill Win",
+    "category": [
+      "Anji",
+      "Instant Kill",
+      "Instant Kill Win"
+    ]
+  },
+  {
+    "name": "Slayer Stage 2 Complete",
+    "copy_location": "Slayer Stage 2 Win",
+    "category": [
+      "Slayer",
+      "Stage 2 Complete"
+    ]
+  },
+  {
+    "name": "Slayer Stage 3 Complete",
+    "copy_location": "Slayer Stage 3 Win",
+    "category": [
+      "Slayer",
+      "Stage 3 Complete"
+    ]
+  },
+  {
+    "name": "Slayer Stage 5 Complete",
+    "copy_location": "Slayer Stage 5 Win",
+    "category": [
+      "Slayer",
+      "Stage 5 Complete"
+    ]
+  },
+  {
+    "name": "Slayer Stage 7 Complete",
+    "copy_location": "Slayer Stage 7 Win",
+    "category": [
+      "Slayer",
+      "Stage 7 Complete"
+    ]
+  },
+  {
+    "name": "Slayer Stage 10 Complete",
+    "copy_location": "Slayer Stage 10 Win",
+    "category": [
+      "Slayer",
+      "Stage 10 Complete"
+    ]
+  },
+  {
+    "name": "Slayer Instant Kill",
+    "copy_location": "Slayer Instant Kill Win",
+    "category": [
+      "Slayer",
+      "Instant Kill",
+      "Instant Kill Win"
+    ]
+  },
+  {
+    "name": "ABA Stage 2 Complete",
+    "copy_location": "ABA Stage 2 Win",
+    "category": [
+      "ABA",
+      "Stage 2 Complete"
+    ]
+  },
+  {
+    "name": "ABA Stage 3 Complete",
+    "copy_location": "ABA Stage 3 Win",
+    "category": [
+      "ABA",
+      "Stage 3 Complete"
+    ]
+  },
+  {
+    "name": "ABA Stage 5 Complete",
+    "copy_location": "ABA Stage 5 Win",
+    "category": [
+      "ABA",
+      "Stage 5 Complete"
+    ]
+  },
+  {
+    "name": "ABA Stage 7 Complete",
+    "copy_location": "ABA Stage 7 Win",
+    "category": [
+      "ABA",
+      "Stage 7 Complete"
+    ]
+  },
+  {
+    "name": "ABA Stage 10 Complete",
+    "copy_location": "ABA Stage 10 Win",
+    "category": [
+      "ABA",
+      "Stage 10 Complete"
+    ]
+  },
+  {
+    "name": "ABA Instant Kill",
+    "copy_location": "ABA Instant Kill Win",
+    "category": [
+      "ABA",
+      "Instant Kill",
+      "Instant Kill Win"
+    ]
+  },
+  {
+    "name": "Johnny Stage 2 Complete",
+    "copy_location": "Johnny Stage 2 Win",
+    "category": [
+      "Johnny",
+      "Stage 2 Complete"
+    ]
+  },
+  {
+    "name": "Johnny Stage 3 Complete",
+    "copy_location": "Johnny Stage 3 Win",
+    "category": [
+      "Johnny",
+      "Stage 3 Complete"
+    ]
+  },
+  {
+    "name": "Johnny Stage 5 Complete",
+    "copy_location": "Johnny Stage 5 Win",
+    "category": [
+      "Johnny",
+      "Stage 5 Complete"
+    ]
+  },
+  {
+    "name": "Johnny Stage 7 Complete",
+    "copy_location": "Johnny Stage 7 Win",
+    "category": [
+      "Johnny",
+      "Stage 7 Complete"
+    ]
+  },
+  {
+    "name": "Johnny Stage 10 Complete",
+    "copy_location": "Johnny Stage 10 Win",
+    "category": [
+      "Johnny",
+      "Stage 10 Complete"
+    ]
+  },
+  {
+    "name": "Johnny Instant Kill",
+    "copy_location": "Johnny Instant Kill Win",
+    "category": [
+      "Johnny",
+      "Instant Kill",
+      "Instant Kill Win"
+    ]
+  },
+  {
+    "name": "Millia Stage 2 Complete",
+    "copy_location": "Millia Stage 2 Win",
+    "category": [
+      "Millia",
+      "Stage 2 Complete"
+    ]
+  },
+  {
+    "name": "Millia Stage 3 Complete",
+    "copy_location": "Millia Stage 3 Win",
+    "category": [
+      "Millia",
+      "Stage 3 Complete"
+    ]
+  },
+  {
+    "name": "Millia Stage 5 Complete",
+    "copy_location": "Millia Stage 5 Win",
+    "category": [
+      "Millia",
+      "Stage 5 Complete"
+    ]
+  },
+  {
+    "name": "Millia Stage 7 Complete",
+    "copy_location": "Millia Stage 7 Win",
+    "category": [
+      "Millia",
+      "Stage 7 Complete"
+    ]
+  },
+  {
+    "name": "Millia Stage 10 Complete",
+    "copy_location": "Millia Stage 10 Win",
+    "category": [
+      "Millia",
+      "Stage 10 Complete"
+    ]
+  },
+  {
+    "name": "Millia Instant Kill",
+    "copy_location": "Millia Instant Kill Win",
+    "category": [
+      "Millia",
+      "Instant Kill",
+      "Instant Kill Win"
+    ]
+  },
+  {
+    "name": "Sol Stage 2 Complete",
+    "copy_location": "Sol Stage 2 Win",
+    "category": [
+      "Sol",
+      "Stage 2 Complete"
+    ]
+  },
+  {
+    "name": "Sol Stage 3 Complete",
+    "copy_location": "Sol Stage 3 Win",
+    "category": [
+      "Sol",
+      "Stage 3 Complete"
+    ]
+  },
+  {
+    "name": "Sol Stage 5 Complete",
+    "copy_location": "Sol Stage 5 Win",
+    "category": [
+      "Sol",
+      "Stage 5 Complete"
+    ]
+  },
+  {
+    "name": "Sol Stage 7 Complete",
+    "copy_location": "Sol Stage 7 Win",
+    "category": [
+      "Sol",
+      "Stage 7 Complete"
+    ]
+  },
+  {
+    "name": "Sol Stage 10 Complete",
+    "copy_location": "Sol Stage 10 Win",
+    "category": [
+      "Sol",
+      "Stage 10 Complete"
+    ]
+  },
+  {
+    "name": "Sol Instant Kill",
+    "copy_location": "Sol Instant Kill Win",
+    "category": [
+      "Sol",
+      "Instant Kill",
+      "Instant Kill Win"
+    ]
+  },
+  {
+    "name": "Order-Sol Stage 2 Complete",
+    "copy_location": "Order-Sol Stage 2 Win",
+    "category": [
+      "Order-Sol",
+      "Stage 2 Complete"
+    ]
+  },
+  {
+    "name": "Order-Sol Stage 3 Complete",
+    "copy_location": "Order-Sol Stage 3 Win",
+    "category": [
+      "Order-Sol",
+      "Stage 3 Complete"
+    ]
+  },
+  {
+    "name": "Order-Sol Stage 5 Complete",
+    "copy_location": "Order-Sol Stage 5 Win",
+    "category": [
+      "Order-Sol",
+      "Stage 5 Complete"
+    ]
+  },
+  {
+    "name": "Order-Sol Stage 7 Complete",
+    "copy_location": "Order-Sol Stage 7 Win",
+    "category": [
+      "Order-Sol",
+      "Stage 7 Complete"
+    ]
+  },
+  {
+    "name": "Order-Sol Stage 10 Complete",
+    "copy_location": "Order-Sol Stage 10 Win",
+    "category": [
+      "Order-Sol",
+      "Stage 10 Complete"
+    ]
+  },
+  {
+    "name": "Order-Sol Instant Kill",
+    "copy_location": "Order-Sol Instant Kill Win",
+    "category": [
+      "Order-Sol",
+      "Instant Kill",
+      "Instant Kill Win"
+    ]
+  },
+  {
+    "name": "Ky Stage 2 Complete",
+    "copy_location": "Ky Stage 2 Win",
+    "category": [
+      "Ky",
+      "Stage 2 Complete"
+    ]
+  },
+  {
+    "name": "Ky Stage 3 Complete",
+    "copy_location": "Ky Stage 3 Win",
+    "category": [
+      "Ky",
+      "Stage 3 Complete"
+    ]
+  },
+  {
+    "name": "Ky Stage 5 Complete",
+    "copy_location": "Ky Stage 5 Win",
+    "category": [
+      "Ky",
+      "Stage 5 Complete"
+    ]
+  },
+  {
+    "name": "Ky Stage 7 Complete",
+    "copy_location": "Ky Stage 7 Win",
+    "category": [
+      "Ky",
+      "Stage 7 Complete"
+    ]
+  },
+  {
+    "name": "Ky Stage 10 Complete",
+    "copy_location": "Ky Stage 10 Win",
+    "category": [
+      "Ky",
+      "Stage 10 Complete"
+    ]
+  },
+  {
+    "name": "Ky Instant Kill",
+    "copy_location": "Ky Instant Kill Win",
+    "category": [
+      "Ky",
+      "Instant Kill",
+      "Instant Kill Win"
+    ]
+  },
+  {
+    "name": "Robo-Ky Stage 2 Complete",
+    "copy_location": "Robo-Ky Stage 2 Win",
+    "category": [
+      "Robo-Ky",
+      "Stage 2 Complete"
+    ]
+  },
+  {
+    "name": "Robo-Ky Stage 3 Complete",
+    "copy_location": "Robo-Ky Stage 3 Win",
+    "category": [
+      "Robo-Ky",
+      "Stage 3 Complete"
+    ]
+  },
+  {
+    "name": "Robo-Ky Stage 5 Complete",
+    "copy_location": "Robo-Ky Stage 5 Win",
+    "category": [
+      "Robo-Ky",
+      "Stage 5 Complete"
+    ]
+  },
+  {
+    "name": "Robo-Ky Stage 7 Complete",
+    "copy_location": "Robo-Ky Stage 7 Win",
+    "category": [
+      "Robo-Ky",
+      "Stage 7 Complete"
+    ]
+  },
+  {
+    "name": "Robo-Ky Stage 10 Complete",
+    "copy_location": "Robo-Ky Stage 10 Win",
+    "category": [
+      "Robo-Ky",
+      "Stage 10 Complete"
+    ]
+  },
+  {
+    "name": "Robo-Ky Instant Kill",
+    "copy_location": "Robo-Ky Instant Kill Win",
+    "category": [
+      "Robo-Ky",
+      "Instant Kill",
+      "Instant Kill Win"
+    ]
+  },
+  {
+    "name": "May Stage 2 Complete",
+    "copy_location": "May Stage 2 Win",
+    "category": [
+      "May",
+      "Stage 2 Complete"
+    ]
+  },
+  {
+    "name": "May Stage 3 Complete",
+    "copy_location": "May Stage 3 Win",
+    "category": [
+      "May",
+      "Stage 3 Complete"
+    ]
+  },
+  {
+    "name": "May Stage 5 Complete",
+    "copy_location": "May Stage 5 Win",
+    "category": [
+      "May",
+      "Stage 5 Complete"
+    ]
+  },
+  {
+    "name": "May Stage 7 Complete",
+    "copy_location": "May Stage 7 Win",
+    "category": [
+      "May",
+      "Stage 7 Complete"
+    ]
+  },
+  {
+    "name": "May Stage 10 Complete",
+    "copy_location": "May Stage 10 Win",
+    "category": [
+      "May",
+      "Stage 10 Complete"
+    ]
+  },
+  {
+    "name": "May Instant Kill",
+    "copy_location": "May Instant Kill Win",
+    "category": [
+      "May",
+      "Instant Kill",
+      "Instant Kill Win"
+    ]
+  },
+  {
+    "name": "Eddie Stage 2 Complete",
+    "copy_location": "Eddie Stage 2 Win",
+    "category": [
+      "Eddie",
+      "Stage 2 Complete"
+    ]
+  },
+  {
+    "name": "Eddie Stage 3 Complete",
+    "copy_location": "Eddie Stage 3 Win",
+    "category": [
+      "Eddie",
+      "Stage 3 Complete"
+    ]
+  },
+  {
+    "name": "Eddie Stage 5 Complete",
+    "copy_location": "Eddie Stage 5 Win",
+    "category": [
+      "Eddie",
+      "Stage 5 Complete"
+    ]
+  },
+  {
+    "name": "Eddie Stage 7 Complete",
+    "copy_location": "Eddie Stage 7 Win",
+    "category": [
+      "Eddie",
+      "Stage 7 Complete"
+    ]
+  },
+  {
+    "name": "Eddie Stage 10 Complete",
+    "copy_location": "Eddie Stage 10 Win",
+    "category": [
+      "Eddie",
+      "Stage 10 Complete"
+    ]
+  },
+  {
+    "name": "Eddie Instant Kill",
+    "copy_location": "Eddie Instant Kill Win",
+    "category": [
+      "Eddie",
+      "Instant Kill",
+      "Instant Kill Win"
+    ]
+  },
+  {
+    "name": "Testament Stage 2 Complete",
+    "copy_location": "Testament Stage 2 Win",
+    "category": [
+      "Testament",
+      "Stage 2 Complete"
+    ]
+  },
+  {
+    "name": "Testament Stage 3 Complete",
+    "copy_location": "Testament Stage 3 Win",
+    "category": [
+      "Testament",
+      "Stage 3 Complete"
+    ]
+  },
+  {
+    "name": "Testament Stage 5 Complete",
+    "copy_location": "Testament Stage 5 Win",
+    "category": [
+      "Testament",
+      "Stage 5 Complete"
+    ]
+  },
+  {
+    "name": "Testament Stage 7 Complete",
+    "copy_location": "Testament Stage 7 Win",
+    "category": [
+      "Testament",
+      "Stage 7 Complete"
+    ]
+  },
+  {
+    "name": "Testament Stage 10 Complete",
+    "copy_location": "Testament Stage 10 Win",
+    "category": [
+      "Testament",
+      "Stage 10 Complete"
+    ]
+  },
+  {
+    "name": "Testament Instant Kill",
+    "copy_location": "Testament Instant Kill Win",
+    "category": [
+      "Testament",
+      "Instant Kill",
+      "Instant Kill Win"
+    ]
+  },
+  {
+    "name": "Baiken Stage 2 Complete",
+    "copy_location": "Baiken Stage 2 Win",
+    "category": [
+      "Baiken",
+      "Stage 2 Complete"
+    ]
+  },
+  {
+    "name": "Baiken Stage 3 Complete",
+    "copy_location": "Baiken Stage 3 Win",
+    "category": [
+      "Baiken",
+      "Stage 3 Complete"
+    ]
+  },
+  {
+    "name": "Baiken Stage 5 Complete",
+    "copy_location": "Baiken Stage 5 Win",
+    "category": [
+      "Baiken",
+      "Stage 5 Complete"
+    ]
+  },
+  {
+    "name": "Baiken Stage 7 Complete",
+    "copy_location": "Baiken Stage 7 Win",
+    "category": [
+      "Baiken",
+      "Stage 7 Complete"
+    ]
+  },
+  {
+    "name": "Baiken Stage 10 Complete",
+    "copy_location": "Baiken Stage 10 Win",
+    "category": [
+      "Baiken",
+      "Stage 10 Complete"
+    ]
+  },
+  {
+    "name": "Baiken Instant Kill",
+    "copy_location": "Baiken Instant Kill Win",
+    "category": [
+      "Baiken",
+      "Instant Kill",
+      "Instant Kill Win"
+    ]
+  },
+  {
+    "name": "Venom Stage 2 Complete",
+    "copy_location": "Venom Stage 2 Win",
+    "category": [
+      "Venom",
+      "Stage 2 Complete"
+    ]
+  },
+  {
+    "name": "Venom Stage 3 Complete",
+    "copy_location": "Venom Stage 3 Win",
+    "category": [
+      "Venom",
+      "Stage 3 Complete"
+    ]
+  },
+  {
+    "name": "Venom Stage 5 Complete",
+    "copy_location": "Venom Stage 5 Win",
+    "category": [
+      "Venom",
+      "Stage 5 Complete"
+    ]
+  },
+  {
+    "name": "Venom Stage 7 Complete",
+    "copy_location": "Venom Stage 7 Win",
+    "category": [
+      "Venom",
+      "Stage 7 Complete"
+    ]
+  },
+  {
+    "name": "Venom Stage 10 Complete",
+    "copy_location": "Venom Stage 10 Win",
+    "category": [
+      "Venom",
+      "Stage 10 Complete"
+    ]
+  },
+  {
+    "name": "Venom Instant Kill",
+    "copy_location": "Venom Instant Kill Win",
+    "category": [
+      "Venom",
+      "Instant Kill",
+      "Instant Kill Win"
+    ]
+  },
+  {
+    "name": "Bridget Stage 2 Complete",
+    "copy_location": "Bridget Stage 2 Win",
+    "category": [
+      "Bridget",
+      "Stage 2 Complete"
+    ]
+  },
+  {
+    "name": "Bridget Stage 3 Complete",
+    "copy_location": "Bridget Stage 3 Win",
+    "category": [
+      "Bridget",
+      "Stage 3 Complete"
+    ]
+  },
+  {
+    "name": "Bridget Stage 5 Complete",
+    "copy_location": "Bridget Stage 5 Win",
+    "category": [
+      "Bridget",
+      "Stage 5 Complete"
+    ]
+  },
+  {
+    "name": "Bridget Stage 7 Complete",
+    "copy_location": "Bridget Stage 7 Win",
+    "category": [
+      "Bridget",
+      "Stage 7 Complete"
+    ]
+  },
+  {
+    "name": "Bridget Stage 10 Complete",
+    "copy_location": "Bridget Stage 10 Win",
+    "category": [
+      "Bridget",
+      "Stage 10 Complete"
+    ]
+  },
+  {
+    "name": "Bridget Instant Kill",
+    "copy_location": "Bridget Instant Kill Win",
+    "category": [
+      "Bridget",
+      "Instant Kill",
+      "Instant Kill Win"
+    ]
+  },
+  {
+    "name": "Faust Stage 2 Complete",
+    "copy_location": "Faust Stage 2 Win",
+    "category": [
+      "Faust",
+      "Stage 2 Complete"
+    ]
+  },
+  {
+    "name": "Faust Stage 3 Complete",
+    "copy_location": "Faust Stage 3 Win",
+    "category": [
+      "Faust",
+      "Stage 3 Complete"
+    ]
+  },
+  {
+    "name": "Faust Stage 5 Complete",
+    "copy_location": "Faust Stage 5 Win",
+    "category": [
+      "Faust",
+      "Stage 5 Complete"
+    ]
+  },
+  {
+    "name": "Faust Stage 7 Complete",
+    "copy_location": "Faust Stage 7 Win",
+    "category": [
+      "Faust",
+      "Stage 7 Complete"
+    ]
+  },
+  {
+    "name": "Faust Stage 10 Complete",
+    "copy_location": "Faust Stage 10 Win",
+    "category": [
+      "Faust",
+      "Stage 10 Complete"
+    ]
+  },
+  {
+    "name": "Faust Instant Kill",
+    "copy_location": "Faust Instant Kill Win",
+    "category": [
+      "Faust",
+      "Instant Kill",
+      "Instant Kill Win"
+    ]
+  },
+  {
+    "name": "Potemkin Stage 2 Complete",
+    "copy_location": "Potemkin Stage 2 Win",
+    "category": [
+      "Potemkin",
+      "Stage 2 Complete"
+    ]
+  },
+  {
+    "name": "Potemkin Stage 3 Complete",
+    "copy_location": "Potemkin Stage 3 Win",
+    "category": [
+      "Potemkin",
+      "Stage 3 Complete"
+    ]
+  },
+  {
+    "name": "Potemkin Stage 5 Complete",
+    "copy_location": "Potemkin Stage 5 Win",
+    "category": [
+      "Potemkin",
+      "Stage 5 Complete"
+    ]
+  },
+  {
+    "name": "Potemkin Stage 7 Complete",
+    "copy_location": "Potemkin Stage 7 Win",
+    "category": [
+      "Potemkin",
+      "Stage 7 Complete"
+    ]
+  },
+  {
+    "name": "Potemkin Stage 10 Complete",
+    "copy_location": "Potemkin Stage 10 Win",
+    "category": [
+      "Potemkin",
+      "Stage 10 Complete"
+    ]
+  },
+  {
+    "name": "Potemkin Instant Kill",
+    "copy_location": "Potemkin Instant Kill Win",
+    "category": [
+      "Potemkin",
+      "Instant Kill",
+      "Instant Kill Win"
+    ]
+  },
+  {
+    "name": "Justice Stage 2 Complete",
+    "copy_location": "Justice Stage 2 Win",
+    "category": [
+      "Justice",
+      "Stage 2 Complete"
+    ]
+  },
+  {
+    "name": "Justice Stage 3 Complete",
+    "copy_location": "Justice Stage 3 Win",
+    "category": [
+      "Justice",
+      "Stage 3 Complete"
+    ]
+  },
+  {
+    "name": "Justice Stage 5 Complete",
+    "copy_location": "Justice Stage 5 Win",
+    "category": [
+      "Justice",
+      "Stage 5 Complete"
+    ]
+  },
+  {
+    "name": "Justice Stage 7 Complete",
+    "copy_location": "Justice Stage 7 Win",
+    "category": [
+      "Justice",
+      "Stage 7 Complete"
+    ]
+  },
+  {
+    "name": "Justice Stage 10 Complete",
+    "copy_location": "Justice Stage 10 Win",
+    "category": [
+      "Justice",
+      "Stage 10 Complete"
+    ]
+  },
+  {
+    "name": "Justice Instant Kill",
+    "copy_location": "Justice Instant Kill Win",
+    "category": [
+      "Justice",
+      "Instant Kill",
+      "Instant Kill Win"
+    ]
+  },
+  {
+    "name": "I-No Stage 2 Complete",
+    "copy_location": "I-No Stage 2 Win",
+    "category": [
+      "I-No",
+      "Stage 2 Complete"
+    ]
+  },
+  {
+    "name": "I-No Stage 3 Complete",
+    "copy_location": "I-No Stage 3 Win",
+    "category": [
+      "I-No",
+      "Stage 3 Complete"
+    ]
+  },
+  {
+    "name": "I-No Stage 5 Complete",
+    "copy_location": "I-No Stage 5 Win",
+    "category": [
+      "I-No",
+      "Stage 5 Complete"
+    ]
+  },
+  {
+    "name": "I-No Stage 7 Complete",
+    "copy_location": "I-No Stage 7 Win",
+    "category": [
+      "I-No",
+      "Stage 7 Complete"
+    ]
+  },
+  {
+    "name": "I-No Stage 10 Complete",
+    "copy_location": "I-No Stage 10 Win",
+    "category": [
+      "I-No",
+      "Stage 10 Complete"
+    ]
+  },
+  {
+    "name": "I-No Instant Kill",
+    "copy_location": "I-No Instant Kill Win",
+    "category": [
+      "I-No",
+      "Instant Kill",
+      "Instant Kill Win"
+    ]
+  }
+]

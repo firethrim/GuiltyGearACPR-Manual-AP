@@ -1,0 +1,58 @@
+{
+  "Character_Complete": {
+  },
+  "Instant Kill": {
+	"hidden": true
+  },
+  "Nice Burst":{
+	"hidden": true
+  },
+  "Condition":{
+	"hidden": true
+  },
+  "Lose":{
+	"hidden": true
+  },
+  "No Burst":{
+	"hidden": true
+  },
+  "Perfect Win":{
+	"hidden": true
+  },
+  "Stage 1":{
+	"hidden": true
+  },
+  "Stage 2":{
+	"hidden": true
+  },
+  "Stage 3":{
+	"hidden": true
+  },
+  "Stage 4":{
+	"hidden": true
+  },
+  "Stage 5":{
+	"hidden": true
+  },
+  "Stage 6":{
+	"hidden": true
+  },
+  "Stage 7":{
+	"hidden": true
+  },
+  "Stage 8":{
+	"hidden": true
+  },
+  "Stage 9":{
+	"hidden": true
+  },
+  "Stage 10":{
+	"hidden": true
+  },
+  "Super Finish":{
+	"hidden": true
+  },
+  "Taunt":{
+	"hidden": true
+  }
+}

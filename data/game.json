@@ -1,0 +1,12 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "GuiltyGearAccentCorePlusR",
+  "creator": "Firethrim",
+  "filler_item_name": "Filler",
+  "starting_items": [
+	{
+		"item_categories": ["Character"],
+		"random": 1
+	}
+  ]
+}

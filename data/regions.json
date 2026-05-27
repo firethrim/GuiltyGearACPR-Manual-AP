@@ -1,0 +1,132 @@
+{
+  "Kliff Stages": {
+    "starting": true,
+    "connects_to": [],
+    "requires": "|Kliff|"
+  },
+  "Axl Stages": {
+    "starting": true,
+    "connects_to": [],
+    "requires": "|Axl|"
+  },
+  "Jam Stages": {
+    "starting": true,
+    "connects_to": [],
+    "requires": "|Jam|"
+  },
+  "Zappa Stages": {
+    "starting": true,
+    "connects_to": [],
+    "requires": "|Zappa|"
+  },
+  "Chipp Stages": {
+    "starting": true,
+    "connects_to": [],
+    "requires": "|Chipp|"
+  },
+  "Dizzy Stages": {
+    "starting": true,
+    "connects_to": [],
+    "requires": "|Dizzy|"
+  },
+  "Anji Stages": {
+    "starting": true,
+    "connects_to": [],
+    "requires": "|Anji|"
+  },
+  "Slayer Stages": {
+    "starting": true,
+    "connects_to": [],
+    "requires": "|Slayer|"
+  },
+  "ABA Stages": {
+    "starting": true,
+    "connects_to": [],
+    "requires": "|ABA|"
+  },
+  "Johnny Stages": {
+    "starting": true,
+    "connects_to": [],
+    "requires": "|Johnny|"
+  },
+  "Millia Stages": {
+    "starting": true,
+    "connects_to": [],
+    "requires": "|Millia|"
+  },
+  "Sol Stages": {
+    "starting": true,
+    "connects_to": [],
+    "requires": "|Sol|"
+  },
+  "Order-Sol Stages": {
+    "starting": true,
+    "connects_to": [],
+    "requires": "|Order-Sol|"
+  },
+  "Ky Stages": {
+    "starting": true,
+    "connects_to": [],
+    "requires": "|Ky|"
+  },
+  "Robo-Ky Stages": {
+    "starting": true,
+    "connects_to": [],
+    "requires": "|Robo-Ky|"
+  },
+  "May Stages": {
+    "starting": true,
+    "connects_to": [],
+    "requires": "|May|"
+  },
+  "Eddie Stages": {
+    "starting": true,
+    "connects_to": [],
+    "requires": "|Eddie|"
+  },
+  "Testament Stages": {
+    "starting": true,
+    "connects_to": [],
+    "requires": "|Testament|"
+  },
+  "Baiken Stages": {
+    "starting": true,
+    "connects_to": [],
+    "requires": "|Baiken|"
+  },
+  "Venom Stages": {
+    "starting": true,
+    "connects_to": [],
+    "requires": "|Venom|"
+  },
+  "Bridget Stages": {
+    "starting": true,
+    "connects_to": [],
+    "requires": "|Bridget|"
+  },
+  "Faust Stages": {
+    "starting": true,
+    "connects_to": [],
+    "requires": "|Faust|"
+  },
+  "Potemkin Stages": {
+    "starting": true,
+    "connects_to": [],
+    "requires": "|Potemkin|"
+  },
+  "Justice Stages": {
+    "starting": true,
+    "connects_to": [],
+    "requires": "|Justice|"
+  },
+  "I-No Stages": {
+    "starting": true,
+    "connects_to": [],
+    "requires": "|I-No|"
+  },
+  "Any Character Stages": {
+    "starting": true,
+    "connects_to": [],
+    "requires": ""
+  }
+}
